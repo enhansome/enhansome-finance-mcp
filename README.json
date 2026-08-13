@@ -1,0 +1,107 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "🔥 Featured"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Stock Market"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Data Providers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Trading Execution"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Cryptocurrency"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Crypto Data Providers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Crypto Trading Execution"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "On-Chain Analytics"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "DeFi & Swaps"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Personal Finance"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Payments & Banking"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Blockchain & Web3"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Financial Intelligence"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Community Contributions"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Cryptocurrency & Blockchain"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Financial Intelligence"
+    },
+    {
+      "description": "Skills are task-level workflows built on top of MCP servers or external APIs. They provide ready-to-use capabilities for common finance tasks.",
+      "items": [],
+      "title": "Skills"
+    },
+    {
+      "description": "BlockRun - Give your AI agent a wallet, not API keys.\nBlockRun enables AI agents to make autonomous payments using x402 protocol. No API keys to manage, no OAuth to configure - just instant, secure transactions.",
+      "items": [],
+      "title": "Sponsors"
+    },
+    {
+      "description": "To the extent possible under law, BlockRun has waived all copyright and related rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:56:51.013Z",
+    "original_repository": "BlockRunAI/awesome-finance-mcp",
+    "original_repository_sha": "15c31db180dd5169cb09eb0fd99a39d7235b5e6a",
+    "enhanced_repository": "enhansome/enhansome-finance-mcp",
+    "enhanced_repository_description": null,
+    "title": "Awesome Finance MCP & Skills with stars"
+  }
+}
