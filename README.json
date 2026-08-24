@@ -1,7 +1,951 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Maverick MCP",
+              "description": "AI trading agent with real-time analysis Free",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1043767874,
+                "language": "Python",
+                "last_commit": "2026-08-23T02:06:59Z",
+                "owner": "wshobson",
+                "repo": "maverick-mcp",
+                "stars": 650
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MCP Trader",
+              "description": "Trading MCP with backtesting support Free",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 914532667,
+                "language": null,
+                "last_commit": "2025-08-24T15:36:43Z",
+                "owner": "wshobson",
+                "repo": "mcp-trader",
+                "stars": 273
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Alpaca MCP",
+              "description": "Trade stocks, ETFs, options; run data analysis Free (commission-free)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 995562554,
+                "language": "Python",
+                "last_commit": "2026-08-24T12:03:25Z",
+                "owner": "alpacahq",
+                "repo": "alpaca-mcp-server",
+                "stars": 925
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Financial Datasets MCP",
+              "description": "Income statements, balance sheets, stock prices Freemium",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 944516885,
+                "language": "Python",
+                "last_commit": "2025-06-05T19:50:38Z",
+                "owner": "financial-datasets",
+                "repo": "mcp-server",
+                "stars": 2282
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Alpha Vantage MCP",
+              "description": "Stocks, forex, crypto, technical indicators Freemium",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1027446090,
+                "language": "Python",
+                "last_commit": "2026-08-21T05:04:32Z",
+                "owner": "alphavantage",
+                "repo": "alpha_vantage_mcp",
+                "stars": 202
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Financial Modeling Prep MCP",
+              "description": "250+ tools, fundamentals, market insights Freemium",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 988409529,
+                "language": "TypeScript",
+                "last_commit": "2026-07-02T17:24:51Z",
+                "owner": "imbenrabi",
+                "repo": "Financial-Modeling-Prep-MCP-Server",
+                "stars": 141
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Finnhub MCP",
+              "description": "Stock market data via Finnhub API Freemium",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 975360076,
+                "language": "Python",
+                "last_commit": "2025-05-01T07:20:48Z",
+                "owner": "sverze",
+                "repo": "stock-market-mcp-server",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Massive MCP",
+              "description": "Stocks, options, forex, crypto market data Freemium",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 951563472,
+                "language": "Python",
+                "last_commit": "2026-06-11T16:25:26Z",
+                "owner": "massive-com",
+                "repo": "mcp_massive",
+                "stars": 384
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "QuantConnect MCP",
+              "description": "Algorithmic trading platform integration Freemium",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1007787283,
+                "language": "Python",
+                "last_commit": "2026-05-07T16:17:32Z",
+                "owner": "QuantConnect",
+                "repo": "mcp-server",
+                "stars": 77
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FRED MCP",
+              "description": "Federal Reserve Economic Data Free",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 981791515,
+                "language": "TypeScript",
+                "last_commit": "2026-08-22T18:34:49Z",
+                "owner": "stefanoamorelli",
+                "repo": "fred-mcp-server",
+                "stars": 117
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KOSPI/KOSDAQ MCP",
+              "description": "Korean stock market data Free",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 932574281,
+                "language": "Python",
+                "last_commit": "2026-08-04T09:05:50Z",
+                "owner": "dragon1086",
+                "repo": "kospi-kosdaq-stock-server",
+                "stars": 71
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Yahoo Finance MCP",
+              "description": "Yahoo Finance stock data Free",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 968479062,
+                "language": "Python",
+                "last_commit": "2026-08-24T11:54:04Z",
+                "owner": "maxscheijen",
+                "repo": "mcp-yahoo-finance",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HK Finance MCP",
+              "description": "Hong Kong stock market data Free",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 998307973,
+                "language": "Python",
+                "last_commit": "2026-06-10T14:39:57Z",
+                "owner": "hkopenai",
+                "repo": "hk-finance-mcp-server",
+                "stars": 12
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Data Providers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Alpaca MCP",
+              "description": "Commission-free stock/ETF/options trading Free",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 995562554,
+                "language": "Python",
+                "last_commit": "2026-08-24T12:03:25Z",
+                "owner": "alpacahq",
+                "repo": "alpaca-mcp-server",
+                "stars": 925
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MetaTrader 5 MCP",
+              "description": "Trade via MetaTrader 5 platform Free (requires MT5)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 963828488,
+                "language": "Python",
+                "last_commit": "2026-03-28T18:39:29Z",
+                "owner": "ariadng",
+                "repo": "metatrader-mcp-server",
+                "stars": 769
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Paper MCP",
+              "description": "Paper trading - practice without real money Free",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1001270907,
+                "language": "JavaScript",
+                "last_commit": "2025-09-19T01:19:55Z",
+                "owner": "paperinvest",
+                "repo": "mcp-server",
+                "stars": 23
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Trading Execution"
+        }
+      ],
+      "title": "Stock Market"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DexPaprika MCP",
+              "description": "DEX analytics across 20+ blockchains Free",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 946575068,
+                "language": "JavaScript",
+                "last_commit": "2026-08-21T12:45:41Z",
+                "owner": "coinpaprika",
+                "repo": "dexpaprika-mcp",
+                "stars": 42
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CCXT MCP",
+              "description": "Data from 20+ exchanges via CCXT Free",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 908004168,
+                "language": "Python",
+                "last_commit": "2025-02-17T18:45:06Z",
+                "owner": "Nayshins",
+                "repo": "mcp-server-ccxt",
+                "stars": 62
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Crypto Indicators MCP",
+              "description": "Technical analysis indicators Free",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 953321792,
+                "language": "JavaScript",
+                "last_commit": "2025-12-06T01:07:31Z",
+                "owner": "kukapay",
+                "repo": "crypto-indicators-mcp",
+                "stars": 130
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TradingView MCP",
+              "description": "Advanced market analysis, multi-exchange Freemium",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1034736943,
+                "language": "Python",
+                "last_commit": "2026-08-07T16:03:29Z",
+                "owner": "atilaahmettaner",
+                "repo": "tradingview-mcp",
+                "stars": 4207
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Crypto Data Providers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Binance MCP",
+              "description": "Portfolio, trading, token conversion Requires API key",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 957893144,
+                "language": "TypeScript",
+                "last_commit": "2025-04-16T06:57:55Z",
+                "owner": "TermiX-official",
+                "repo": "binance-mcp",
+                "stars": 97
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Coinbase MCP",
+              "description": "Wallet operations and trading via AgentKit Requires credentials",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 881569514,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T19:19:01Z",
+                "owner": "coinbase",
+                "repo": "agentkit",
+                "stars": 1284
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DeFi Trading MCP",
+              "description": "Autonomous trading across 17+ chains Requires wallet",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1030527701,
+                "language": "JavaScript",
+                "last_commit": "2026-06-10T10:03:05Z",
+                "owner": "edkdev",
+                "repo": "defi-trading-mcp",
+                "stars": 52
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Armor Crypto MCP",
+              "description": "Swaps, DeFi, wallet management Requires wallet",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 953029184,
+                "language": "Python",
+                "last_commit": "2025-07-29T15:53:53Z",
+                "owner": "armorwallet",
+                "repo": "armor-crypto-mcp",
+                "stars": 179
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Crypto Trading Execution"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Bankless Onchain MCP",
+              "description": "Query onchain data, ERC20 tokens Free",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 946011336,
+                "language": "TypeScript",
+                "last_commit": "2026-05-05T11:48:39Z",
+                "owner": "Bankless",
+                "repo": "onchain-mcp",
+                "stars": 80
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hive Crypto MCP",
+              "description": "Crypto, DeFi, Web3 analytics Freemium",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1043592077,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T07:37:01Z",
+                "owner": "hive-intel",
+                "repo": "hive-sdk",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Crypto Liquidations MCP",
+              "description": "Real-time liquidation events Requires API key",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 976488513,
+                "language": "Python",
+                "last_commit": "2025-05-06T08:53:13Z",
+                "owner": "kukapay",
+                "repo": "crypto-liquidations-mcp",
+                "stars": 9
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "On-Chain Analytics"
+        }
+      ],
+      "title": "Cryptocurrency"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PancakeSwap PoolSpy MCP",
+          "description": "Track new liquidity pools Free",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 949792903,
+            "language": "Python",
+            "last_commit": "2025-05-07T17:24:42Z",
+            "owner": "kukapay",
+            "repo": "pancakeswap-poolspy-mcp",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free USDC Transfer MCP",
+          "description": "Send USDC on Base for free Free (x402)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 914708046,
+            "language": "JavaScript",
+            "last_commit": "2025-01-17T09:25:59Z",
+            "owner": "magnetai",
+            "repo": "mcp-free-usdc-transfer",
+            "stars": 21
+          }
+        }
+      ],
+      "title": "DeFi & Swaps"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LunchMoney MCP",
+          "description": "Transaction tracking, budgeting Requires account",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1026989787,
+            "language": "TypeScript",
+            "last_commit": "2026-08-03T08:08:33Z",
+            "owner": "akutishevsky",
+            "repo": "lunchmoney-mcp",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Monarch Money MCP",
+          "description": "Accounts, budgets, cashflow analysis Requires account",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 998195595,
+            "language": "Python",
+            "last_commit": "2025-06-08T04:25:30Z",
+            "owner": "carsol",
+            "repo": "monarch-mcp-server",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Personal Finance"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Stripe MCP",
+          "description": "Payment processing, subscriptions Requires API key",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 886826524,
+            "language": "TypeScript",
+            "last_commit": "2026-08-22T04:22:39Z",
+            "owner": "stripe",
+            "repo": "ai",
+            "stars": 1762
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Qonto MCP",
+          "description": "Business banking, transactions, invoicing Requires API key",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1001356491,
+            "language": "Python",
+            "last_commit": "2026-06-22T17:03:03Z",
+            "owner": "qonto",
+            "repo": "qonto-mcp-server",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ramp MCP",
+          "description": "Spend analytics via LLMs Requires credentials",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 951969645,
+            "language": "Python",
+            "last_commit": "2025-03-20T15:30:58Z",
+            "owner": "ramp-public",
+            "repo": "ramp_mcp",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fewsats MCP",
+          "description": "Bitcoin purchases for AI agents Freemium",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 947211439,
+            "language": "Python",
+            "last_commit": "2025-05-27T10:46:56Z",
+            "owner": "Fewsats",
+            "repo": "fewsats-mcp",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "x402 Payment MCP",
+          "description": "HTTP-native payments for AI agents Free (x402)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1199736913,
+            "language": "TypeScript",
+            "last_commit": "2026-08-21T23:28:28Z",
+            "owner": "coinbase",
+            "repo": "x402",
+            "stars": 147
+          }
+        }
+      ],
+      "title": "Payments & Banking"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Base MCP",
+          "description": "Base network + Coinbase API Requires credentials",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 944155585,
+            "language": "TypeScript",
+            "last_commit": "2026-05-13T20:07:50Z",
+            "owner": "base",
+            "repo": "base-mcp-legacy",
+            "stars": 350
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Solana MCP",
+          "description": "Solana agent kit with MCP support Free",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 889798967,
+            "language": "TypeScript",
+            "last_commit": "2026-05-14T18:46:54Z",
+            "owner": "sendaifun",
+            "repo": "solana-agent-kit",
+            "stars": 1708
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bitcoin Lightning MCP",
+          "description": "Bitcoin & Lightning operations Free",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 927861815,
+            "language": "TypeScript",
+            "last_commit": "2025-08-01T09:38:50Z",
+            "owner": "AbdelStark",
+            "repo": "bitcoin-mcp",
+            "stars": 77
+          }
+        }
+      ],
+      "title": "Blockchain & Web3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenBB Platform",
+          "description": "Comprehensive financial data platform Free + Paid",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 323048702,
+            "language": "Python",
+            "last_commit": "2026-07-30T17:33:42Z",
+            "owner": "OpenBB-finance",
+            "repo": "OpenBB",
+            "stars": 72236
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TrendRadar",
+          "description": "AI sentiment monitoring, hot topic tracking Free",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 974186260,
+            "language": "Python",
+            "last_commit": "2026-07-17T13:54:28Z",
+            "owner": "sansan0",
+            "repo": "TrendRadar",
+            "stars": 61743
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Finbrain MCP",
+          "description": "Institutional-grade alternative data Requires API key",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1059617117,
+            "language": "Python",
+            "last_commit": "2026-08-14T13:20:19Z",
+            "owner": "ahmetsbilgin",
+            "repo": "finbrain-mcp",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Norman Finance MCP",
+          "description": "Accounting, invoices, taxes Requires credentials",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 967639407,
+            "language": "Python",
+            "last_commit": "2026-08-21T15:23:46Z",
+            "owner": "norman-finance",
+            "repo": "norman-mcp-server",
+            "stars": 54
+          }
+        }
+      ],
+      "title": "Financial Intelligence"
+    },
+    {
+      "description": "🙏 Thanks to these contributors who submitted their MCP servers!",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Lightning Faucet",
+              "description": "Lightning Faucet MCP Server Free @pfergi42",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1134677367,
+                "language": "JavaScript",
+                "last_commit": "2026-07-02T15:37:36Z",
+                "owner": "lightningfaucet",
+                "repo": "lightning-wallet-mcp",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LNbits MCP",
+              "description": "LNbits Lightning wallet Free @talvasconcelos",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1017311647,
+                "language": "Python",
+                "last_commit": "2026-03-24T16:38:01Z",
+                "owner": "lnbits",
+                "repo": "LNbits-MCP-Server",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hashnet MCP",
+              "description": "Hashnet/Hedera integration Free @kantorcodes",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1094598330,
+                "language": "TypeScript",
+                "last_commit": "2026-05-08T14:15:15Z",
+                "owner": "hashgraph-online",
+                "repo": "hashnet-mcp-js",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dexscreener-trending-mcp",
+              "description": "DexScreener trending tokens Free @kukapay",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1132682262,
+                "language": "JavaScript",
+                "last_commit": "2026-01-12T09:58:48Z",
+                "owner": "kukapay",
+                "repo": "dexscreener-trending-mcp",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "investor-agent",
+              "description": "MCP server for building an investor agent Free @ferdousbhai",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 936468631,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T17:57:53Z",
+                "owner": "ferdousbhai",
+                "repo": "investor-agent",
+                "stars": 345
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "coincap-mcp",
+              "description": "Access crypto data from CoinCap API Free @QuantGeekDev",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 900462893,
+                "language": "TypeScript",
+                "last_commit": "2025-01-30T16:30:02Z",
+                "owner": "QuantGeekDev",
+                "repo": "coincap-mcp",
+                "stars": 93
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Cryptocurrency & Blockchain"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OpenBB MCP",
+              "description": "OpenBB financial platform Free @MagnusS0",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 323048702,
+                "language": "Python",
+                "last_commit": "2026-07-30T17:33:42Z",
+                "owner": "OpenBB-finance",
+                "repo": "OpenBB",
+                "stars": 72236
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Financial Intelligence"
+        }
+      ],
+      "title": "Community Contributions"
+    },
+    {
+      "description": "Skills are task-level workflows built on top of MCP servers or external APIs. They provide ready-to-use capabilities for common finance tasks.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Equity Research",
+          "description": "Institutional-grade equity research with buy/sell recommendations, fundamental analysis, technical indicators Claude Code Plugin",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1053779296,
+            "language": "Python",
+            "last_commit": "2026-08-24T05:04:36Z",
+            "owner": "quant-sentiment-ai",
+            "repo": "claude-equity-research",
+            "stars": 703
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FinLab AI",
+          "description": "Mass-produce alpha-generating quant strategies, Taiwan stock market analysis FinLab + Claude",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1128829385,
+            "language": null,
+            "last_commit": "2026-08-14T16:46:44Z",
+            "owner": "koreal6803",
+            "repo": "finlab-ai",
+            "stars": 413
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Trading Terminal",
+          "description": "Agent-native trading terminal - deploy sub-agents for trades, positions, risk management Claude Code + Jupiter",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1045796812,
+            "language": "JavaScript",
+            "last_commit": "2025-08-29T19:45:21Z",
+            "owner": "degentic-tools",
+            "repo": "claude-code-trading-terminal",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Claude Investor",
+          "description": "Investment analysis agent - price data, balance sheets, sentiment, analyst ratings Claude 3 Opus/Haiku",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 777993878,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-03-28T01:26:10Z",
+            "owner": "martinxu9",
+            "repo": "claude-investor",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Trading Skills",
+          "description": "IBD-style RS Rating for identifying stocks with strong momentum Claude Code Skill",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1079356098,
+            "language": "Python",
+            "last_commit": "2026-08-23T14:53:56Z",
+            "owner": "tradermonty",
+            "repo": "claude-trading-skills",
+            "stars": 2712
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Invoice Organizer",
+          "description": "Organize invoices and receipts for tax prep - extract, rename, sort Claude Code Skill -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1078079172,
+            "language": "Python",
+            "last_commit": "2026-08-10T21:45:44Z",
+            "owner": "ComposioHQ",
+            "repo": "awesome-claude-skills",
+            "stars": 73145
+          }
+        }
+      ],
+      "title": "Skills"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T19:39:57.741Z",
+    "last_updated": "2026-08-24T14:35:40.532Z",
     "original_repository": "BlockRunAI/awesome-finance-mcp",
     "original_repository_id": 1136197489,
     "original_repository_sha": "15c31db180dd5169cb09eb0fd99a39d7235b5e6a",
