@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-24T20:35:55Z",
                 "owner": "wshobson",
                 "repo": "maverick-mcp",
-                "stars": 651
+                "stars": 652
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2025-06-05T19:50:38Z",
                 "owner": "financial-datasets",
                 "repo": "mcp-server",
-                "stars": 2281
+                "stars": 2280
               }
             },
             {
@@ -77,7 +77,7 @@
                 "last_commit": "2026-08-25T03:23:37Z",
                 "owner": "alphavantage",
                 "repo": "alpha_vantage_mcp",
-                "stars": 202
+                "stars": 203
               }
             },
             {
@@ -234,7 +234,7 @@
                 "last_commit": "2026-03-28T18:39:29Z",
                 "owner": "ariadng",
                 "repo": "metatrader-mcp-server",
-                "stars": 771
+                "stars": 772
               }
             },
             {
@@ -322,7 +322,7 @@
                 "last_commit": "2026-08-24T21:40:11Z",
                 "owner": "atilaahmettaner",
                 "repo": "tradingview-mcp",
-                "stars": 4216
+                "stars": 4224
               }
             }
           ],
@@ -423,7 +423,7 @@
                 "archived": false,
                 "id": 1043592077,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T07:37:01Z",
+                "last_commit": "2026-08-25T09:34:30Z",
                 "owner": "hive-intel",
                 "repo": "hive-sdk",
                 "stars": 19
@@ -536,7 +536,7 @@
             "archived": false,
             "id": 886826524,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T04:22:39Z",
+            "last_commit": "2026-08-25T17:35:41Z",
             "owner": "stripe",
             "repo": "ai",
             "stars": 1763
@@ -671,7 +671,7 @@
             "last_commit": "2026-07-30T17:33:42Z",
             "owner": "OpenBB-finance",
             "repo": "OpenBB",
-            "stars": 72253
+            "stars": 72281
           }
         },
         {
@@ -686,7 +686,7 @@
             "last_commit": "2026-07-17T13:54:28Z",
             "owner": "sansan0",
             "repo": "TrendRadar",
-            "stars": 61805
+            "stars": 61827
           }
         },
         {
@@ -713,7 +713,7 @@
             "archived": false,
             "id": 967639407,
             "language": "Python",
-            "last_commit": "2026-08-21T15:23:46Z",
+            "last_commit": "2026-08-25T17:16:36Z",
             "owner": "norman-finance",
             "repo": "norman-mcp-server",
             "stars": 54
@@ -836,7 +836,7 @@
                 "last_commit": "2026-07-30T17:33:42Z",
                 "owner": "OpenBB-finance",
                 "repo": "OpenBB",
-                "stars": 72253
+                "stars": 72281
               }
             }
           ],
@@ -862,7 +862,7 @@
             "last_commit": "2026-08-25T04:56:43Z",
             "owner": "quant-sentiment-ai",
             "repo": "claude-equity-research",
-            "stars": 703
+            "stars": 704
           }
         },
         {
@@ -922,7 +922,7 @@
             "last_commit": "2026-08-23T14:53:56Z",
             "owner": "tradermonty",
             "repo": "claude-trading-skills",
-            "stars": 2717
+            "stars": 2719
           }
         },
         {
@@ -937,7 +937,7 @@
             "last_commit": "2026-08-10T21:45:44Z",
             "owner": "ComposioHQ",
             "repo": "awesome-claude-skills",
-            "stars": 73191
+            "stars": 73225
           }
         }
       ],
@@ -945,7 +945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:27:08.834Z",
+    "last_updated": "2026-08-25T19:48:45.115Z",
     "original_repository": "BlockRunAI/awesome-finance-mcp",
     "original_repository_id": 1136197489,
     "original_repository_sha": "15c31db180dd5169cb09eb0fd99a39d7235b5e6a",
