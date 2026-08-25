@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 1043767874,
                 "language": "Python",
-                "last_commit": "2026-08-23T02:06:59Z",
+                "last_commit": "2026-08-24T20:35:55Z",
                 "owner": "wshobson",
                 "repo": "maverick-mcp",
-                "stars": 650
+                "stars": 651
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2025-06-05T19:50:38Z",
                 "owner": "financial-datasets",
                 "repo": "mcp-server",
-                "stars": 2282
+                "stars": 2281
               }
             },
             {
@@ -74,7 +74,7 @@
                 "archived": false,
                 "id": 1027446090,
                 "language": "Python",
-                "last_commit": "2026-08-21T05:04:32Z",
+                "last_commit": "2026-08-25T03:23:37Z",
                 "owner": "alphavantage",
                 "repo": "alpha_vantage_mcp",
                 "stars": 202
@@ -234,7 +234,7 @@
                 "last_commit": "2026-03-28T18:39:29Z",
                 "owner": "ariadng",
                 "repo": "metatrader-mcp-server",
-                "stars": 770
+                "stars": 771
               }
             },
             {
@@ -319,10 +319,10 @@
                 "archived": false,
                 "id": 1034736943,
                 "language": "Python",
-                "last_commit": "2026-08-24T19:20:43Z",
+                "last_commit": "2026-08-24T21:40:11Z",
                 "owner": "atilaahmettaner",
                 "repo": "tradingview-mcp",
-                "stars": 4212
+                "stars": 4216
               }
             }
           ],
@@ -539,7 +539,7 @@
             "last_commit": "2026-08-22T04:22:39Z",
             "owner": "stripe",
             "repo": "ai",
-            "stars": 1762
+            "stars": 1763
           }
         },
         {
@@ -596,7 +596,7 @@
             "archived": false,
             "id": 1199736913,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T23:28:28Z",
+            "last_commit": "2026-08-24T21:41:45Z",
             "owner": "coinbase",
             "repo": "x402",
             "stars": 147
@@ -671,7 +671,7 @@
             "last_commit": "2026-07-30T17:33:42Z",
             "owner": "OpenBB-finance",
             "repo": "OpenBB",
-            "stars": 72240
+            "stars": 72253
           }
         },
         {
@@ -686,7 +686,7 @@
             "last_commit": "2026-07-17T13:54:28Z",
             "owner": "sansan0",
             "repo": "TrendRadar",
-            "stars": 61762
+            "stars": 61805
           }
         },
         {
@@ -730,7 +730,7 @@
             {
               "node_type": "item",
               "title": "Lightning Faucet",
-              "description": "Lightning Faucet MCP Server Free @pfergi42",
+              "description": "Lightning Faucet MCP Server Free  @pfergi42",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -745,7 +745,7 @@
             {
               "node_type": "item",
               "title": "LNbits MCP",
-              "description": "LNbits Lightning wallet Free @talvasconcelos",
+              "description": "LNbits Lightning wallet Free  @talvasconcelos",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -760,7 +760,7 @@
             {
               "node_type": "item",
               "title": "Hashnet MCP",
-              "description": "Hashnet/Hedera integration Free @kantorcodes",
+              "description": "Hashnet/Hedera integration Free  @kantorcodes",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -775,7 +775,7 @@
             {
               "node_type": "item",
               "title": "dexscreener-trending-mcp",
-              "description": "DexScreener trending tokens Free @kukapay",
+              "description": "DexScreener trending tokens Free  @kukapay",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -790,7 +790,7 @@
             {
               "node_type": "item",
               "title": "investor-agent",
-              "description": "MCP server for building an investor agent Free @ferdousbhai",
+              "description": "MCP server for building an investor agent Free  @ferdousbhai",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -805,7 +805,7 @@
             {
               "node_type": "item",
               "title": "coincap-mcp",
-              "description": "Access crypto data from CoinCap API Free @QuantGeekDev",
+              "description": "Access crypto data from CoinCap API Free  @QuantGeekDev",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -827,7 +827,7 @@
             {
               "node_type": "item",
               "title": "OpenBB MCP",
-              "description": "OpenBB financial platform Free @MagnusS0",
+              "description": "OpenBB financial platform Free  @MagnusS0",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -836,7 +836,7 @@
                 "last_commit": "2026-07-30T17:33:42Z",
                 "owner": "OpenBB-finance",
                 "repo": "OpenBB",
-                "stars": 72240
+                "stars": 72253
               }
             }
           ],
@@ -859,7 +859,7 @@
             "archived": false,
             "id": 1053779296,
             "language": "Python",
-            "last_commit": "2026-08-24T05:04:36Z",
+            "last_commit": "2026-08-25T04:56:43Z",
             "owner": "quant-sentiment-ai",
             "repo": "claude-equity-research",
             "stars": 703
@@ -922,7 +922,7 @@
             "last_commit": "2026-08-23T14:53:56Z",
             "owner": "tradermonty",
             "repo": "claude-trading-skills",
-            "stars": 2714
+            "stars": 2717
           }
         },
         {
@@ -937,7 +937,7 @@
             "last_commit": "2026-08-10T21:45:44Z",
             "owner": "ComposioHQ",
             "repo": "awesome-claude-skills",
-            "stars": 73169
+            "stars": 73191
           }
         }
       ],
@@ -945,7 +945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T19:48:00.749Z",
+    "last_updated": "2026-08-25T06:27:08.834Z",
     "original_repository": "BlockRunAI/awesome-finance-mcp",
     "original_repository_id": 1136197489,
     "original_repository_sha": "15c31db180dd5169cb09eb0fd99a39d7235b5e6a",
