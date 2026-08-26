@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 1043767874,
                 "language": "Python",
-                "last_commit": "2026-08-24T20:35:55Z",
+                "last_commit": "2026-08-26T12:43:40Z",
                 "owner": "wshobson",
                 "repo": "maverick-mcp",
                 "stars": 652
@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-24T12:03:25Z",
                 "owner": "alpacahq",
                 "repo": "alpaca-mcp-server",
-                "stars": 925
+                "stars": 926
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2025-06-05T19:50:38Z",
                 "owner": "financial-datasets",
                 "repo": "mcp-server",
-                "stars": 2280
+                "stars": 2282
               }
             },
             {
@@ -77,7 +77,7 @@
                 "last_commit": "2026-08-25T03:23:37Z",
                 "owner": "alphavantage",
                 "repo": "alpha_vantage_mcp",
-                "stars": 203
+                "stars": 205
               }
             },
             {
@@ -122,7 +122,7 @@
                 "last_commit": "2026-06-11T16:25:26Z",
                 "owner": "massive-com",
                 "repo": "mcp_massive",
-                "stars": 384
+                "stars": 385
               }
             },
             {
@@ -219,7 +219,7 @@
                 "last_commit": "2026-08-24T12:03:25Z",
                 "owner": "alpacahq",
                 "repo": "alpaca-mcp-server",
-                "stars": 925
+                "stars": 926
               }
             },
             {
@@ -234,7 +234,7 @@
                 "last_commit": "2026-03-28T18:39:29Z",
                 "owner": "ariadng",
                 "repo": "metatrader-mcp-server",
-                "stars": 772
+                "stars": 774
               }
             },
             {
@@ -322,7 +322,7 @@
                 "last_commit": "2026-08-24T21:40:11Z",
                 "owner": "atilaahmettaner",
                 "repo": "tradingview-mcp",
-                "stars": 4224
+                "stars": 4234
               }
             }
           ],
@@ -359,7 +359,7 @@
                 "last_commit": "2026-08-19T19:19:01Z",
                 "owner": "coinbase",
                 "repo": "agentkit",
-                "stars": 1285
+                "stars": 1286
               }
             },
             {
@@ -423,7 +423,7 @@
                 "archived": false,
                 "id": 1043592077,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T09:34:30Z",
+                "last_commit": "2026-08-26T11:59:33Z",
                 "owner": "hive-intel",
                 "repo": "hive-sdk",
                 "stars": 19
@@ -536,10 +536,10 @@
             "archived": false,
             "id": 886826524,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T17:35:41Z",
+            "last_commit": "2026-08-26T00:21:54Z",
             "owner": "stripe",
             "repo": "ai",
-            "stars": 1763
+            "stars": 1766
           }
         },
         {
@@ -596,7 +596,7 @@
             "archived": false,
             "id": 1199736913,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T21:41:45Z",
+            "last_commit": "2026-08-26T16:20:46Z",
             "owner": "coinbase",
             "repo": "x402",
             "stars": 147
@@ -635,7 +635,7 @@
             "last_commit": "2026-05-14T18:46:54Z",
             "owner": "sendaifun",
             "repo": "solana-agent-kit",
-            "stars": 1708
+            "stars": 1710
           }
         },
         {
@@ -671,7 +671,7 @@
             "last_commit": "2026-07-30T17:33:42Z",
             "owner": "OpenBB-finance",
             "repo": "OpenBB",
-            "stars": 72281
+            "stars": 72336
           }
         },
         {
@@ -686,7 +686,7 @@
             "last_commit": "2026-07-17T13:54:28Z",
             "owner": "sansan0",
             "repo": "TrendRadar",
-            "stars": 61827
+            "stars": 61855
           }
         },
         {
@@ -713,7 +713,7 @@
             "archived": false,
             "id": 967639407,
             "language": "Python",
-            "last_commit": "2026-08-25T17:16:36Z",
+            "last_commit": "2026-08-26T12:30:42Z",
             "owner": "norman-finance",
             "repo": "norman-mcp-server",
             "stars": 54
@@ -836,7 +836,7 @@
                 "last_commit": "2026-07-30T17:33:42Z",
                 "owner": "OpenBB-finance",
                 "repo": "OpenBB",
-                "stars": 72281
+                "stars": 72336
               }
             }
           ],
@@ -859,10 +859,10 @@
             "archived": false,
             "id": 1053779296,
             "language": "Python",
-            "last_commit": "2026-08-25T04:56:43Z",
+            "last_commit": "2026-08-26T04:58:21Z",
             "owner": "quant-sentiment-ai",
             "repo": "claude-equity-research",
-            "stars": 704
+            "stars": 705
           }
         },
         {
@@ -919,10 +919,10 @@
             "archived": false,
             "id": 1079356098,
             "language": "Python",
-            "last_commit": "2026-08-23T14:53:56Z",
+            "last_commit": "2026-08-26T15:39:22Z",
             "owner": "tradermonty",
             "repo": "claude-trading-skills",
-            "stars": 2719
+            "stars": 2726
           }
         },
         {
@@ -937,7 +937,7 @@
             "last_commit": "2026-08-10T21:45:44Z",
             "owner": "ComposioHQ",
             "repo": "awesome-claude-skills",
-            "stars": 73225
+            "stars": 73352
           }
         }
       ],
@@ -945,7 +945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T19:48:45.115Z",
+    "last_updated": "2026-08-26T22:17:37.566Z",
     "original_repository": "BlockRunAI/awesome-finance-mcp",
     "original_repository_id": 1136197489,
     "original_repository_sha": "15c31db180dd5169cb09eb0fd99a39d7235b5e6a",
