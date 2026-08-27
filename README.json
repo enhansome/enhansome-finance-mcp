@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-24T12:03:25Z",
                 "owner": "alpacahq",
                 "repo": "alpaca-mcp-server",
-                "stars": 926
+                "stars": 927
               }
             },
             {
@@ -219,7 +219,7 @@
                 "last_commit": "2026-08-24T12:03:25Z",
                 "owner": "alpacahq",
                 "repo": "alpaca-mcp-server",
-                "stars": 926
+                "stars": 927
               }
             },
             {
@@ -234,7 +234,7 @@
                 "last_commit": "2026-03-28T18:39:29Z",
                 "owner": "ariadng",
                 "repo": "metatrader-mcp-server",
-                "stars": 774
+                "stars": 776
               }
             },
             {
@@ -322,7 +322,7 @@
                 "last_commit": "2026-08-24T21:40:11Z",
                 "owner": "atilaahmettaner",
                 "repo": "tradingview-mcp",
-                "stars": 4234
+                "stars": 4241
               }
             }
           ],
@@ -359,7 +359,7 @@
                 "last_commit": "2026-08-19T19:19:01Z",
                 "owner": "coinbase",
                 "repo": "agentkit",
-                "stars": 1286
+                "stars": 1289
               }
             },
             {
@@ -389,7 +389,7 @@
                 "last_commit": "2025-07-29T15:53:53Z",
                 "owner": "armorwallet",
                 "repo": "armor-crypto-mcp",
-                "stars": 179
+                "stars": 178
               }
             }
           ],
@@ -423,7 +423,7 @@
                 "archived": false,
                 "id": 1043592077,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T11:59:33Z",
+                "last_commit": "2026-08-27T09:22:39Z",
                 "owner": "hive-intel",
                 "repo": "hive-sdk",
                 "stars": 19
@@ -503,7 +503,7 @@
             "last_commit": "2026-08-03T08:08:33Z",
             "owner": "akutishevsky",
             "repo": "lunchmoney-mcp",
-            "stars": 95
+            "stars": 96
           }
         },
         {
@@ -539,7 +539,7 @@
             "last_commit": "2026-08-26T00:21:54Z",
             "owner": "stripe",
             "repo": "ai",
-            "stars": 1766
+            "stars": 1768
           }
         },
         {
@@ -599,7 +599,7 @@
             "last_commit": "2026-08-26T16:20:46Z",
             "owner": "coinbase",
             "repo": "x402",
-            "stars": 147
+            "stars": 148
           }
         }
       ],
@@ -671,7 +671,7 @@
             "last_commit": "2026-07-30T17:33:42Z",
             "owner": "OpenBB-finance",
             "repo": "OpenBB",
-            "stars": 72336
+            "stars": 72360
           }
         },
         {
@@ -686,7 +686,7 @@
             "last_commit": "2026-07-17T13:54:28Z",
             "owner": "sansan0",
             "repo": "TrendRadar",
-            "stars": 61855
+            "stars": 61869
           }
         },
         {
@@ -836,7 +836,7 @@
                 "last_commit": "2026-07-30T17:33:42Z",
                 "owner": "OpenBB-finance",
                 "repo": "OpenBB",
-                "stars": 72336
+                "stars": 72360
               }
             }
           ],
@@ -892,7 +892,7 @@
             "last_commit": "2025-08-29T19:45:21Z",
             "owner": "degentic-tools",
             "repo": "claude-code-trading-terminal",
-            "stars": 20
+            "stars": 21
           }
         },
         {
@@ -937,7 +937,7 @@
             "last_commit": "2026-08-10T21:45:44Z",
             "owner": "ComposioHQ",
             "repo": "awesome-claude-skills",
-            "stars": 73352
+            "stars": 73419
           }
         }
       ],
@@ -945,9 +945,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T22:17:37.566Z",
-    "original_repository": "BlockRunAI/awesome-finance-mcp",
-    "original_repository_id": 1136197489,
+    "last_updated": "2026-08-27T11:37:03.395Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 1136197489,
+      "language": null,
+      "last_commit": "2026-02-16T05:53:31Z",
+      "owner": "BlockRunAI",
+      "repo": "awesome-finance-mcp",
+      "stars": 194
+    },
     "original_repository_sha": "15c31db180dd5169cb09eb0fd99a39d7235b5e6a",
     "enhanced_repository": "enhansome/enhansome-finance-mcp",
     "enhanced_repository_description": null,
