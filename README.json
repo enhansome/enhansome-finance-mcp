@@ -12,12 +12,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MaverickMCP - Personal Stock Analysis MCP Server",
+                "homepage": "https://sethhobson.com",
                 "id": 1043767874,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-26T12:43:40Z",
+                "open_issues": 3,
                 "owner": "wshobson",
                 "repo": "maverick-mcp",
-                "stars": 653
+                "stars": 653,
+                "topics": [
+                  "ai-agents",
+                  "algorithmic-trading",
+                  "anthropic",
+                  "backtesting",
+                  "claude",
+                  "fastmcp",
+                  "finance",
+                  "financial-analysis",
+                  "llm",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "python",
+                  "quantitative-finance",
+                  "stock-analysis",
+                  "stock-market",
+                  "stocks",
+                  "technical-analysis",
+                  "trading",
+                  "yfinance"
+                ]
               },
               "first_seen": "2026-08-29T02:16:37.239Z"
             },
@@ -28,12 +54,34 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A Model Context Protocol (MCP) server for stock traders",
+                "homepage": "https://sethhobson.com",
                 "id": 914532667,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-08-24T15:36:43Z",
+                "open_issues": 6,
                 "owner": "wshobson",
                 "repo": "mcp-trader",
-                "stars": 273
+                "stars": 273,
+                "topics": [
+                  "anthropic",
+                  "artificial-intelligence",
+                  "claude",
+                  "equities",
+                  "finance",
+                  "financial-analysis",
+                  "fintech",
+                  "investing",
+                  "mcp",
+                  "mcp-server",
+                  "pandas",
+                  "pandas-ta",
+                  "python",
+                  "technical-analysis",
+                  "tiingo-api",
+                  "trading"
+                ]
               },
               "first_seen": "2026-08-29T02:16:37.239Z"
             },
@@ -44,12 +92,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Alpaca’s official MCP Server lets you trade stocks, ETFs, crypto, and options, run data analysis, and build strategies in plain English directly from your favorite LLM tools and IDEs",
+                "homepage": "https://alpaca.markets/algotrading",
                 "id": 995562554,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-24T12:03:25Z",
+                "open_issues": 25,
                 "owner": "alpacahq",
                 "repo": "alpaca-mcp-server",
-                "stars": 928
+                "stars": 928,
+                "topics": [
+                  "ai-trading",
+                  "algorithmic-trading",
+                  "crypto",
+                  "etfs",
+                  "mcp",
+                  "mcp-server",
+                  "options",
+                  "stocks",
+                  "trading",
+                  "trading-api"
+                ]
               },
               "first_seen": "2026-08-29T02:16:37.239Z"
             },
@@ -60,12 +124,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An MCP server for interacting with the Financial Datasets stock market API.",
+                "homepage": "https://www.financialdatasets.ai/",
                 "id": 944516885,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-06-05T19:50:38Z",
+                "open_issues": 14,
                 "owner": "financial-datasets",
                 "repo": "mcp-server",
-                "stars": 2283
+                "stars": 2282,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:16:37.239Z"
             },
@@ -76,12 +145,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Alpha Vantage MCP Server",
+                "homepage": "https://mcp.alphavantage.co",
                 "id": 1027446090,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-25T03:23:37Z",
+                "open_issues": 1,
                 "owner": "alphavantage",
                 "repo": "alpha_vantage_mcp",
-                "stars": 204
+                "stars": 204,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:16:37.239Z"
             },
@@ -92,12 +166,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Model Context Protocol (MCP) implementation for Financial Modeling Prep, enabling AI assistants to access and analyze financial data, stock information, company fundamentals, and market insights.",
+                "homepage": null,
                 "id": 988409529,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-02T17:24:51Z",
+                "open_issues": 2,
                 "owner": "imbenrabi",
                 "repo": "Financial-Modeling-Prep-MCP-Server",
-                "stars": 141
+                "stars": 141,
+                "topics": [
+                  "ai",
+                  "etf-investments",
+                  "financial-modeling-prep",
+                  "fmp",
+                  "llm",
+                  "mcp",
+                  "mcp-server",
+                  "mcp-tools",
+                  "smithery-ai",
+                  "stock-data",
+                  "stock-market"
+                ]
               },
               "first_seen": "2026-08-29T02:16:37.239Z"
             },
@@ -108,12 +199,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Machine Conversation Protocol (MCP) server that provides stock market data and analysis tools using the Finnhub API.",
+                "homepage": null,
                 "id": 975360076,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-05-01T07:20:48Z",
+                "open_issues": 0,
                 "owner": "sverze",
                 "repo": "stock-market-mcp-server",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:16:37.239Z"
             },
@@ -124,12 +220,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An MCP server for Massive.com Financial Market Data",
+                "homepage": null,
                 "id": 951563472,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-11T16:25:26Z",
+                "open_issues": 8,
                 "owner": "massive-com",
                 "repo": "mcp_massive",
-                "stars": 386
+                "stars": 386,
+                "topics": [
+                  "cryptocurrency",
+                  "fintech",
+                  "llm",
+                  "market-data",
+                  "mcp",
+                  "mcp-server",
+                  "options",
+                  "stocks"
+                ]
               },
               "first_seen": "2026-08-29T02:16:37.239Z"
             },
@@ -140,12 +250,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Python MCP server for local interactions with the QuantConnect API",
+                "homepage": "https://www.quantconnect.com/mcp",
                 "id": 1007787283,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-07T16:17:32Z",
+                "open_issues": 16,
                 "owner": "QuantConnect",
                 "repo": "mcp-server",
-                "stars": 77
+                "stars": 77,
+                "topics": [
+                  "algorithmic-trading",
+                  "finance",
+                  "mcp",
+                  "quantitative-finance"
+                ]
               },
               "first_seen": "2026-08-29T02:16:37.239Z"
             },
@@ -156,12 +276,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source FRED MCP Server (Federal Reserve Economic Data)",
+                "homepage": "https://fred-mcp-server.amorelli.tech",
                 "id": 981791515,
                 "language": "TypeScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-22T18:34:49Z",
+                "open_issues": 6,
                 "owner": "stefanoamorelli",
                 "repo": "fred-mcp-server",
-                "stars": 117
+                "stars": 117,
+                "topics": [
+                  "data",
+                  "data-analysis-project",
+                  "finance",
+                  "financial-analysis",
+                  "genai",
+                  "llm",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "model-context-protocol-server"
+                ]
               },
               "first_seen": "2026-08-29T02:16:37.239Z"
             },
@@ -172,12 +308,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An MCP server that provides KOSPI/KOSDAQ stock data using FastMCP",
+                "homepage": null,
                 "id": 932574281,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-04T09:05:50Z",
+                "open_issues": 1,
                 "owner": "dragon1086",
                 "repo": "kospi-kosdaq-stock-server",
-                "stars": 71
+                "stars": 71,
+                "topics": [
+                  "finance"
+                ]
               },
               "first_seen": "2026-08-29T02:16:37.239Z"
             },
@@ -188,12 +331,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Model Context Protocol (MCP) server for Yahoo Finance.",
+                "homepage": null,
                 "id": 968479062,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-24T11:54:04Z",
+                "open_issues": 3,
                 "owner": "maxscheijen",
                 "repo": "mcp-yahoo-finance",
-                "stars": 29
+                "stars": 29,
+                "topics": [
+                  "agents",
+                  "automation",
+                  "claude",
+                  "finance",
+                  "mcp",
+                  "yahoo-finance"
+                ]
               },
               "first_seen": "2026-08-29T02:16:37.239Z"
             },
@@ -204,12 +359,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is an MCP server that provides access to finance related data in Hong Kong through a FastMCP interface.",
+                "homepage": null,
                 "id": 998307973,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-10T14:39:57Z",
+                "open_issues": 4,
                 "owner": "hkopenai",
                 "repo": "hk-finance-mcp-server",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "ai",
+                  "finance",
+                  "hongkong",
+                  "mcp"
+                ]
               },
               "first_seen": "2026-08-29T02:16:37.239Z"
             }
@@ -227,12 +392,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Alpaca’s official MCP Server lets you trade stocks, ETFs, crypto, and options, run data analysis, and build strategies in plain English directly from your favorite LLM tools and IDEs",
+                "homepage": "https://alpaca.markets/algotrading",
                 "id": 995562554,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-24T12:03:25Z",
+                "open_issues": 25,
                 "owner": "alpacahq",
                 "repo": "alpaca-mcp-server",
-                "stars": 928
+                "stars": 928,
+                "topics": [
+                  "ai-trading",
+                  "algorithmic-trading",
+                  "crypto",
+                  "etfs",
+                  "mcp",
+                  "mcp-server",
+                  "options",
+                  "stocks",
+                  "trading",
+                  "trading-api"
+                ]
               },
               "first_seen": "2026-08-29T02:16:37.239Z"
             },
@@ -243,12 +424,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Model Context Protocol (MCP) to enable AI LLMs to trade using MetaTrader platform",
+                "homepage": null,
                 "id": 963828488,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-03-28T18:39:29Z",
+                "open_issues": 27,
                 "owner": "ariadng",
                 "repo": "metatrader-mcp-server",
-                "stars": 779
+                "stars": 779,
+                "topics": [
+                  "ai",
+                  "finance",
+                  "investment",
+                  "llm",
+                  "mcp",
+                  "metatrader",
+                  "quantitative-finance",
+                  "trading"
+                ]
               },
               "first_seen": "2026-08-29T02:16:37.239Z"
             },
@@ -259,12 +454,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official MCP server for Paper's trading platform - enables AI assistants to interact with Paper's API",
+                "homepage": "https://paperinvest.io",
                 "id": 1001270907,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-09-19T01:19:55Z",
+                "open_issues": 0,
                 "owner": "paperinvest",
                 "repo": "mcp-server",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "ai",
+                  "ai-assistants",
+                  "claude",
+                  "finance",
+                  "mcp",
+                  "mcp-client",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "options-data",
+                  "options-pricing",
+                  "options-trading",
+                  "paper-trading",
+                  "stock-data",
+                  "stock-market",
+                  "stock-prices",
+                  "stocks-trading",
+                  "trading",
+                  "trading-api"
+                ]
               },
               "first_seen": "2026-08-29T02:16:37.239Z"
             }
@@ -288,12 +507,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DexPaprika MCP server for real-time crypto token data, DEX trading activity, and DeFi analytics across multiple blockchains.",
+                "homepage": "https://dexpaprika.com",
                 "id": 946575068,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-21T12:45:41Z",
+                "open_issues": 0,
                 "owner": "coinpaprika",
                 "repo": "dexpaprika-mcp",
-                "stars": 42
+                "stars": 42,
+                "topics": [
+                  "claude-integration",
+                  "crypto-analysis-tool",
+                  "crypto-api",
+                  "cryptocurrency",
+                  "defi",
+                  "dex",
+                  "dexpaprika",
+                  "javascript",
+                  "mcp",
+                  "model-context-protocol",
+                  "nodejs"
+                ]
               },
               "first_seen": "2026-08-29T02:16:37.239Z"
             },
@@ -304,12 +540,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cryptocurrency Market Data MCP Server",
+                "homepage": null,
                 "id": 908004168,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-02-17T18:45:06Z",
+                "open_issues": 1,
                 "owner": "Nayshins",
                 "repo": "mcp-server-ccxt",
-                "stars": 62
+                "stars": 62,
+                "topics": [
+                  "agent",
+                  "ai",
+                  "ccxt",
+                  "cryptocurrency",
+                  "mcp",
+                  "mcp-server"
+                ]
               },
               "first_seen": "2026-08-29T02:16:37.239Z"
             },
@@ -320,12 +568,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An MCP server providing a range of cryptocurrency technical analysis indicators and strategies.",
+                "homepage": null,
                 "id": 953321792,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-12-06T01:07:31Z",
+                "open_issues": 8,
                 "owner": "kukapay",
                 "repo": "crypto-indicators-mcp",
-                "stars": 130
+                "stars": 130,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:16:37.239Z"
             },
@@ -336,12 +589,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TradingView MCP server — real-time market data, technical analysis, screeners & backtesting for Claude, ChatGPT, Cursor & any MCP client. Stocks, crypto, forex & futures across global exchanges. Hosted or self-host.",
+                "homepage": "https://pro.cryptosieve.com",
                 "id": 1034736943,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-24T21:40:11Z",
+                "open_issues": 13,
                 "owner": "atilaahmettaner",
                 "repo": "tradingview-mcp",
-                "stars": 4279
+                "stars": 4281,
+                "topics": [
+                  "claude-desktop",
+                  "cryptocurrency",
+                  "futures",
+                  "market-data",
+                  "mcp-server",
+                  "mcp-tools",
+                  "model-context-protocol",
+                  "openclaw",
+                  "stock-market",
+                  "technical-analysis",
+                  "trading-mcp",
+                  "trading-strategies",
+                  "tradingview"
+                ]
               },
               "first_seen": "2026-08-29T02:16:37.239Z"
             }
@@ -359,12 +631,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "binance-mcp",
+                "homepage": null,
                 "id": 957893144,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2025-04-16T06:57:55Z",
+                "open_issues": 6,
                 "owner": "TermiX-official",
                 "repo": "binance-mcp",
-                "stars": 97
+                "stars": 97,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:16:37.239Z"
             },
@@ -375,12 +652,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Every AI Agent deserves a wallet.",
+                "homepage": "https://docs.cdp.coinbase.com/agentkit/docs/welcome",
                 "id": 881569514,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-19T19:19:01Z",
+                "open_issues": 346,
                 "owner": "coinbase",
                 "repo": "agentkit",
-                "stars": 1293
+                "stars": 1293,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:16:37.239Z"
             },
@@ -391,12 +673,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DeFi Trading Agent MCP Server - Transform your AI into an autonomous crypto trading agent",
+                "homepage": null,
                 "id": 1030527701,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-06-10T10:03:05Z",
+                "open_issues": 2,
                 "owner": "edkdev",
                 "repo": "defi-trading-mcp",
-                "stars": 52
+                "stars": 52,
+                "topics": [
+                  "ai-agent",
+                  "base",
+                  "blockchain",
+                  "crypto",
+                  "crypto-trading-agent",
+                  "defi",
+                  "ethereum",
+                  "gasless",
+                  "mcp",
+                  "memecoin",
+                  "portfolio",
+                  "swap",
+                  "trading-agent",
+                  "trading-bot"
+                ]
               },
               "first_seen": "2026-08-29T02:16:37.239Z"
             },
@@ -407,12 +709,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The MCP server for interacting with Blockchain, Swaps, Strategic Planning and more.",
+                "homepage": null,
                 "id": 953029184,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2025-07-29T15:53:53Z",
+                "open_issues": 3,
                 "owner": "armorwallet",
                 "repo": "armor-crypto-mcp",
-                "stars": 178
+                "stars": 178,
+                "topics": [
+                  "ai",
+                  "ai-agents",
+                  "cryptocurrency",
+                  "mcp",
+                  "tradingbot",
+                  "wallet"
+                ]
               },
               "first_seen": "2026-08-29T02:16:37.239Z"
             }
@@ -430,12 +744,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bringing the bankless onchain API to MCP",
+                "homepage": null,
                 "id": 946011336,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-05-05T11:48:39Z",
+                "open_issues": 10,
                 "owner": "Bankless",
                 "repo": "onchain-mcp",
-                "stars": 80
+                "stars": 80,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:16:37.239Z"
             },
@@ -446,12 +765,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Public SDK, CLI, and docs for Hive Intelligence: crypto MCP access for AI agents.",
+                "homepage": "https://hiveintelligence.xyz/crypto-mcp",
                 "id": 1043592077,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T09:22:39Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T04:48:10Z",
+                "open_issues": 3,
                 "owner": "hive-intel",
                 "repo": "hive-sdk",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "ai-agents",
+                  "anthropic",
+                  "blockchain",
+                  "chatgpt",
+                  "claude",
+                  "claude-desktop",
+                  "crypto",
+                  "cryptocurrency",
+                  "cursor",
+                  "defi",
+                  "dex",
+                  "hive-intelligence",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "nft",
+                  "on-chain",
+                  "prediction-markets",
+                  "wallet",
+                  "web3"
+                ]
               },
               "first_seen": "2026-08-29T02:16:37.239Z"
             },
@@ -462,12 +807,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An MCP server that streams real-time cryptocurrency liquidation events from Binance.",
+                "homepage": null,
                 "id": 976488513,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-05-06T08:53:13Z",
+                "open_issues": 1,
                 "owner": "kukapay",
                 "repo": "crypto-liquidations-mcp",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:16:37.239Z"
             }
@@ -489,12 +839,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An MCP server that tracks newly created liquidity pools on Pancake Swap",
+            "homepage": null,
             "id": 949792903,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-05-07T17:24:42Z",
+            "open_issues": 3,
             "owner": "kukapay",
             "repo": "pancakeswap-poolspy-mcp",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:16:37.239Z"
         },
@@ -505,12 +860,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MCP (Model Context Protocol) server - free usdc transfer powered by Coinbase CDP",
+            "homepage": "https://docs.cdp.coinbase.com/mpc-wallet/docs/welcome",
             "id": 914708046,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-01-17T09:25:59Z",
+            "open_issues": 4,
             "owner": "magnetai",
             "repo": "mcp-free-usdc-transfer",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "claude",
+              "coinbase",
+              "magnet",
+              "modelcontextprotocol"
+            ]
           },
           "first_seen": "2026-08-29T02:16:37.239Z"
         }
@@ -527,12 +892,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Model Context Protocol (MCP) server implementation for LunchMoney, providing programmatic access to personal finance management through LunchMoney's API.",
+            "homepage": null,
             "id": 1026989787,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-03T08:08:33Z",
+            "open_issues": 1,
             "owner": "akutishevsky",
             "repo": "lunchmoney-mcp",
-            "stars": 97
+            "stars": 97,
+            "topics": [
+              "lunchmoney",
+              "lunchmoney-api",
+              "mcp",
+              "mcp-server",
+              "mcpb",
+              "model-context-protocol"
+            ]
           },
           "first_seen": "2026-08-29T02:16:37.239Z"
         },
@@ -543,12 +920,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 998195595,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-06-08T04:25:30Z",
+            "open_issues": 1,
             "owner": "carsol",
             "repo": "monarch-mcp-server",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:16:37.239Z"
         }
@@ -565,12 +947,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "One-stop shop for building AI-powered products and businesses with Stripe.",
+            "homepage": "https://docs.stripe.com/agents",
             "id": 886826524,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-29T00:43:54Z",
+            "open_issues": 82,
             "owner": "stripe",
             "repo": "ai",
-            "stars": 1774
+            "stars": 1774,
+            "topics": [
+              "ai",
+              "gemini-cli-extension",
+              "llm",
+              "llm-agents",
+              "mcp",
+              "python",
+              "typescript",
+              "workflows"
+            ]
           },
           "first_seen": "2026-08-29T02:16:37.239Z"
         },
@@ -581,12 +977,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Qonto MCP Server",
+            "homepage": "https://qonto.com",
             "id": 1001356491,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-22T17:03:03Z",
+            "open_issues": 3,
             "owner": "qonto",
             "repo": "qonto-mcp-server",
-            "stars": 41
+            "stars": 41,
+            "topics": [
+              "banking",
+              "finance",
+              "genai",
+              "llm",
+              "mcp",
+              "mcp-server"
+            ]
           },
           "first_seen": "2026-08-29T02:16:37.239Z"
         },
@@ -597,12 +1005,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "ramp_mcp",
+            "homepage": null,
             "id": 951969645,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-03-20T15:30:58Z",
+            "open_issues": 7,
             "owner": "ramp-public",
             "repo": "ramp_mcp",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:16:37.239Z"
         },
@@ -613,12 +1026,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fewsats MCP server",
+            "homepage": null,
             "id": 947211439,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-05-27T10:46:56Z",
+            "open_issues": 2,
             "owner": "Fewsats",
             "repo": "fewsats-mcp",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:16:37.239Z"
         },
@@ -629,12 +1047,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A payments protocol for the internet. Built on HTTP.",
+            "homepage": "https://x402.org",
             "id": 1199736913,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T16:20:46Z",
+            "open_issues": 165,
             "owner": "coinbase",
             "repo": "x402",
-            "stars": 149
+            "stars": 149,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:16:37.239Z"
         }
@@ -651,12 +1074,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A Model Context Protocol (MCP) server that provides onchain tools for LLMs, allowing them to interact with the Base network and Coinbase API.",
+            "homepage": "https://www.npmjs.com/package/base-mcp",
             "id": 944155585,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-13T20:07:50Z",
+            "open_issues": 52,
             "owner": "base",
             "repo": "base-mcp-legacy",
-            "stars": 350
+            "stars": 350,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:16:37.239Z"
         },
@@ -667,12 +1095,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "connect any ai agents to solana protocols",
+            "homepage": "https://kit.sendai.fun",
             "id": 889798967,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-14T18:46:54Z",
+            "open_issues": 65,
             "owner": "sendaifun",
             "repo": "solana-agent-kit",
-            "stars": 1711
+            "stars": 1711,
+            "topics": [
+              "ai",
+              "langchain",
+              "langchain-js",
+              "solana",
+              "solana-langchain",
+              "web3js"
+            ]
           },
           "first_seen": "2026-08-29T02:16:37.239Z"
         },
@@ -683,12 +1123,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bitcoin & Lightning Network MCP Server.",
+            "homepage": "https://abdelstark.github.io/bitcoin-mcp/",
             "id": 927861815,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-08-01T09:38:50Z",
+            "open_issues": 5,
             "owner": "AbdelStark",
             "repo": "bitcoin-mcp",
-            "stars": 76
+            "stars": 76,
+            "topics": [
+              "ai-agents",
+              "bitcoin",
+              "claude-desktop",
+              "goose",
+              "lightning-network",
+              "mcp-server"
+            ]
           },
           "first_seen": "2026-08-29T02:16:37.239Z"
         }
@@ -705,12 +1157,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Data Platform for analysts, quants and AI agents.",
+            "homepage": "https://openbb.co",
             "id": 323048702,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-30T17:33:42Z",
+            "open_issues": 107,
             "owner": "OpenBB-finance",
             "repo": "OpenBB",
-            "stars": 72414
+            "stars": 72416,
+            "topics": [
+              "ai",
+              "crypto",
+              "derivatives",
+              "economics",
+              "equity",
+              "finance",
+              "fixed-income",
+              "machine-learning",
+              "openbb",
+              "options",
+              "python",
+              "quantitative-finance",
+              "stocks"
+            ]
           },
           "first_seen": "2026-08-29T02:16:37.239Z"
         },
@@ -721,12 +1192,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
+            "homepage": "https://trendradar.sandev.cc",
             "id": 974186260,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-17T13:54:28Z",
+            "open_issues": 61,
             "owner": "sansan0",
             "repo": "TrendRadar",
-            "stars": 61896
+            "stars": 61899,
+            "topics": [
+              "ai",
+              "bark",
+              "data-analysis",
+              "docker",
+              "hot-news",
+              "llm",
+              "mail",
+              "mcp",
+              "mcp-server",
+              "news",
+              "ntfy",
+              "python",
+              "rss",
+              "trending-topics",
+              "wechat",
+              "wework"
+            ]
           },
           "first_seen": "2026-08-29T02:16:37.239Z"
         },
@@ -737,12 +1230,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FinBrain MCP server: expose FinBrain datasets to AI agents (Claude, VSCode etc.) via SDK-first tools. Runs locally with each user's own FinBrain API key.",
+            "homepage": null,
             "id": 1059617117,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-14T13:20:19Z",
+            "open_issues": 2,
             "owner": "ahmetsbilgin",
             "repo": "finbrain-mcp",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:16:37.239Z"
         },
@@ -753,12 +1251,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI-powered bookkeeping and tax filing automation via MCP for entrepreneurs at the heart of the European economy",
+            "homepage": "https://norman.finance",
             "id": 967639407,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-29T01:20:38Z",
+            "open_issues": 4,
             "owner": "norman-finance",
             "repo": "norman-mcp-server",
-            "stars": 54
+            "stars": 54,
+            "topics": [
+              "bookkeeping",
+              "claude",
+              "cursor-plugin",
+              "german-tax-accounting",
+              "gpt",
+              "invoicing",
+              "mcp",
+              "mcp-server",
+              "norman",
+              "openai",
+              "vat-filing"
+            ]
           },
           "first_seen": "2026-08-29T02:16:37.239Z"
         }
@@ -777,12 +1292,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MCP Server for Lightning Faucet - Give your AI agent a Bitcoin wallet",
+                "homepage": "https://lightningfaucet.com/ai-agents/",
                 "id": 1134677367,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-02T15:37:36Z",
+                "open_issues": 0,
                 "owner": "lightningfaucet",
                 "repo": "lightning-wallet-mcp",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "ai-agent",
+                  "anthropic",
+                  "bitcoin",
+                  "claude",
+                  "cursor",
+                  "l402",
+                  "lightning",
+                  "lightning-network",
+                  "mcp",
+                  "mcp-server",
+                  "micropayments",
+                  "model-context-protocol",
+                  "payments",
+                  "wallet",
+                  "x402"
+                ]
               },
               "first_seen": "2026-08-29T02:16:37.239Z"
             },
@@ -793,12 +1329,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An MCP server for LNbits",
+                "homepage": "https://rumble.com/v6vxr70-lnbits-mcp-server-lnbits-in-your-ai.html",
                 "id": 1017311647,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-03-24T16:38:01Z",
+                "open_issues": 1,
                 "owner": "lnbits",
                 "repo": "LNbits-MCP-Server",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:16:37.239Z"
             },
@@ -809,12 +1350,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Universal MCP Server for finding + connecting to agents anywhere on the planet. https://hol.org/mcp",
+                "homepage": "https://hol.org/mcp",
                 "id": 1094598330,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-08T14:15:15Z",
+                "open_issues": 2,
                 "owner": "hashgraph-online",
                 "repo": "hashnet-mcp-js",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "a2a",
+                  "agent",
+                  "agent-discovery",
+                  "agentverse",
+                  "ai-agents",
+                  "erc-8004",
+                  "hashgraph",
+                  "hedera",
+                  "mcp",
+                  "mcp-server",
+                  "nanda",
+                  "openrouter",
+                  "registry-broker",
+                  "virtuals"
+                ]
               },
               "first_seen": "2026-08-29T02:16:37.239Z"
             },
@@ -825,12 +1386,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An MCP server that provides real-time trending tokens from DexScreener.",
+                "homepage": null,
                 "id": 1132682262,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-01-12T09:58:48Z",
+                "open_issues": 0,
                 "owner": "kukapay",
                 "repo": "dexscreener-trending-mcp",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:16:37.239Z"
             },
@@ -841,12 +1407,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Model Context Protocol server for building an investor agent",
+                "homepage": null,
                 "id": 936468631,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T13:35:16Z",
+                "open_issues": 0,
                 "owner": "ferdousbhai",
                 "repo": "investor-agent",
-                "stars": 345
+                "stars": 345,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:16:37.239Z"
             },
@@ -857,12 +1428,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A coincap mcp server to access crypto data from coincap API",
+                "homepage": null,
                 "id": 900462893,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-01-30T16:30:02Z",
+                "open_issues": 6,
                 "owner": "QuantGeekDev",
                 "repo": "coincap-mcp",
-                "stars": 93
+                "stars": 93,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:16:37.239Z"
             }
@@ -880,12 +1456,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open Data Platform for analysts, quants and AI agents.",
+                "homepage": "https://openbb.co",
                 "id": 323048702,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-30T17:33:42Z",
+                "open_issues": 107,
                 "owner": "OpenBB-finance",
                 "repo": "OpenBB",
-                "stars": 72414
+                "stars": 72416,
+                "topics": [
+                  "ai",
+                  "crypto",
+                  "derivatives",
+                  "economics",
+                  "equity",
+                  "finance",
+                  "fixed-income",
+                  "machine-learning",
+                  "openbb",
+                  "options",
+                  "python",
+                  "quantitative-finance",
+                  "stocks"
+                ]
               },
               "first_seen": "2026-08-29T02:16:37.239Z"
             }
@@ -907,12 +1502,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔌 Claude Code Plugin for institutional-grade equity research.   Install with /plugin marketplace add. Generates professional   buy/sell recommendations with comprehensive fundamental   analysis, technical indicators, and risk assessment. Educational    use only - not financial advice.",
+            "homepage": null,
             "id": 1053779296,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-27T15:18:09Z",
+            "open_issues": 0,
             "owner": "quant-sentiment-ai",
             "repo": "claude-equity-research",
-            "stars": 706
+            "stars": 706,
+            "topics": [
+              "ai-powered",
+              "claude-code",
+              "claude-code-plugin",
+              "equity-research",
+              "finance",
+              "financial-analysis",
+              "financial-analysis-ai",
+              "financial-analysis-tools",
+              "financial-analyst",
+              "investment-research",
+              "stock-analysis",
+              "stock-analyst",
+              "trading-analysis"
+            ]
           },
           "first_seen": "2026-08-29T02:16:37.239Z"
         },
@@ -923,12 +1537,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Your AI's shortcut to mass-produce alpha-generating quant strategies.",
+            "homepage": "https://www.finlab.finance",
             "id": 1128829385,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-14T16:46:44Z",
+            "open_issues": 1,
             "owner": "koreal6803",
             "repo": "finlab-ai",
-            "stars": 413
+            "stars": 413,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:16:37.239Z"
         },
@@ -939,12 +1558,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Agent-native trading terminal built on top of Claude Code. Deploy sub-agents that execute trades, monitor positions, and manage risk in parallel across unlimited wallets.",
+            "homepage": null,
             "id": 1045796812,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-08-29T19:45:21Z",
+            "open_issues": 2,
             "owner": "degentic-tools",
             "repo": "claude-code-trading-terminal",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:16:37.239Z"
         },
@@ -955,12 +1579,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 777993878,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-03-28T01:26:10Z",
+            "open_issues": 0,
             "owner": "martinxu9",
             "repo": "claude-investor",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:16:37.239Z"
         },
@@ -971,12 +1600,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+            "homepage": "https://tradermonty.github.io/claude-trading-skills/",
             "id": 1079356098,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T23:34:36Z",
+            "open_issues": 30,
             "owner": "tradermonty",
             "repo": "claude-trading-skills",
-            "stars": 2733
+            "stars": 2733,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:16:37.239Z"
         },
@@ -987,12 +1621,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+            "homepage": null,
             "id": 1078079172,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-10T21:45:44Z",
+            "open_issues": 1346,
             "owner": "ComposioHQ",
             "repo": "awesome-claude-skills",
-            "stars": 73819
+            "stars": 73828,
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "antigravity",
+              "automation",
+              "claude",
+              "claude-code",
+              "codex",
+              "composio",
+              "cursor",
+              "developer-tools",
+              "gemini-cli",
+              "mcp",
+              "openai-codex",
+              "rube",
+              "saas",
+              "skill",
+              "workflow-automation"
+            ]
           },
           "first_seen": "2026-08-29T02:16:37.239Z"
         }
@@ -1001,15 +1658,34 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:16:37.239Z",
+    "last_updated": "2026-08-29T04:51:34.624Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of MCP servers for AI finance agents",
+      "homepage": null,
       "id": 1136197489,
       "language": null,
+      "license": null,
       "last_commit": "2026-02-16T05:53:31Z",
+      "open_issues": 40,
       "owner": "BlockRunAI",
       "repo": "awesome-finance-mcp",
-      "stars": 194
+      "stars": 194,
+      "topics": [
+        "ai-agents",
+        "awesome",
+        "awesome-list",
+        "blockchain",
+        "claude",
+        "crypto",
+        "defi",
+        "finance",
+        "mcp",
+        "model-context-protocol",
+        "skills",
+        "trading",
+        "web3"
+      ]
     },
     "original_repository_sha": "15c31db180dd5169cb09eb0fd99a39d7235b5e6a",
     "enhanced_repository": "enhansome/enhansome-finance-mcp",
