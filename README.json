@@ -17,8 +17,9 @@
                 "last_commit": "2026-08-26T12:43:40Z",
                 "owner": "wshobson",
                 "repo": "maverick-mcp",
-                "stars": 652
-              }
+                "stars": 653
+              },
+              "first_seen": "2026-08-29T02:16:37.239Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "wshobson",
                 "repo": "mcp-trader",
                 "stars": 273
-              }
+              },
+              "first_seen": "2026-08-29T02:16:37.239Z"
             },
             {
               "node_type": "item",
@@ -47,8 +49,9 @@
                 "last_commit": "2026-08-24T12:03:25Z",
                 "owner": "alpacahq",
                 "repo": "alpaca-mcp-server",
-                "stars": 927
-              }
+                "stars": 928
+              },
+              "first_seen": "2026-08-29T02:16:37.239Z"
             },
             {
               "node_type": "item",
@@ -62,8 +65,9 @@
                 "last_commit": "2025-06-05T19:50:38Z",
                 "owner": "financial-datasets",
                 "repo": "mcp-server",
-                "stars": 2282
-              }
+                "stars": 2283
+              },
+              "first_seen": "2026-08-29T02:16:37.239Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "alphavantage",
                 "repo": "alpha_vantage_mcp",
                 "stars": 204
-              }
+              },
+              "first_seen": "2026-08-29T02:16:37.239Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "imbenrabi",
                 "repo": "Financial-Modeling-Prep-MCP-Server",
                 "stars": 141
-              }
+              },
+              "first_seen": "2026-08-29T02:16:37.239Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "sverze",
                 "repo": "stock-market-mcp-server",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-29T02:16:37.239Z"
             },
             {
               "node_type": "item",
@@ -122,8 +129,9 @@
                 "last_commit": "2026-06-11T16:25:26Z",
                 "owner": "massive-com",
                 "repo": "mcp_massive",
-                "stars": 385
-              }
+                "stars": 386
+              },
+              "first_seen": "2026-08-29T02:16:37.239Z"
             },
             {
               "node_type": "item",
@@ -138,7 +146,8 @@
                 "owner": "QuantConnect",
                 "repo": "mcp-server",
                 "stars": 77
-              }
+              },
+              "first_seen": "2026-08-29T02:16:37.239Z"
             },
             {
               "node_type": "item",
@@ -153,7 +162,8 @@
                 "owner": "stefanoamorelli",
                 "repo": "fred-mcp-server",
                 "stars": 117
-              }
+              },
+              "first_seen": "2026-08-29T02:16:37.239Z"
             },
             {
               "node_type": "item",
@@ -168,7 +178,8 @@
                 "owner": "dragon1086",
                 "repo": "kospi-kosdaq-stock-server",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-29T02:16:37.239Z"
             },
             {
               "node_type": "item",
@@ -183,7 +194,8 @@
                 "owner": "maxscheijen",
                 "repo": "mcp-yahoo-finance",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-29T02:16:37.239Z"
             },
             {
               "node_type": "item",
@@ -198,7 +210,8 @@
                 "owner": "hkopenai",
                 "repo": "hk-finance-mcp-server",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-29T02:16:37.239Z"
             }
           ],
           "description": null,
@@ -219,8 +232,9 @@
                 "last_commit": "2026-08-24T12:03:25Z",
                 "owner": "alpacahq",
                 "repo": "alpaca-mcp-server",
-                "stars": 927
-              }
+                "stars": 928
+              },
+              "first_seen": "2026-08-29T02:16:37.239Z"
             },
             {
               "node_type": "item",
@@ -234,8 +248,9 @@
                 "last_commit": "2026-03-28T18:39:29Z",
                 "owner": "ariadng",
                 "repo": "metatrader-mcp-server",
-                "stars": 777
-              }
+                "stars": 779
+              },
+              "first_seen": "2026-08-29T02:16:37.239Z"
             },
             {
               "node_type": "item",
@@ -250,7 +265,8 @@
                 "owner": "paperinvest",
                 "repo": "mcp-server",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-29T02:16:37.239Z"
             }
           ],
           "description": null,
@@ -278,7 +294,8 @@
                 "owner": "coinpaprika",
                 "repo": "dexpaprika-mcp",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-29T02:16:37.239Z"
             },
             {
               "node_type": "item",
@@ -293,7 +310,8 @@
                 "owner": "Nayshins",
                 "repo": "mcp-server-ccxt",
                 "stars": 62
-              }
+              },
+              "first_seen": "2026-08-29T02:16:37.239Z"
             },
             {
               "node_type": "item",
@@ -308,7 +326,8 @@
                 "owner": "kukapay",
                 "repo": "crypto-indicators-mcp",
                 "stars": 130
-              }
+              },
+              "first_seen": "2026-08-29T02:16:37.239Z"
             },
             {
               "node_type": "item",
@@ -322,8 +341,9 @@
                 "last_commit": "2026-08-24T21:40:11Z",
                 "owner": "atilaahmettaner",
                 "repo": "tradingview-mcp",
-                "stars": 4262
-              }
+                "stars": 4279
+              },
+              "first_seen": "2026-08-29T02:16:37.239Z"
             }
           ],
           "description": null,
@@ -345,7 +365,8 @@
                 "owner": "TermiX-official",
                 "repo": "binance-mcp",
                 "stars": 97
-              }
+              },
+              "first_seen": "2026-08-29T02:16:37.239Z"
             },
             {
               "node_type": "item",
@@ -359,8 +380,9 @@
                 "last_commit": "2026-08-19T19:19:01Z",
                 "owner": "coinbase",
                 "repo": "agentkit",
-                "stars": 1292
-              }
+                "stars": 1293
+              },
+              "first_seen": "2026-08-29T02:16:37.239Z"
             },
             {
               "node_type": "item",
@@ -375,7 +397,8 @@
                 "owner": "edkdev",
                 "repo": "defi-trading-mcp",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-29T02:16:37.239Z"
             },
             {
               "node_type": "item",
@@ -390,7 +413,8 @@
                 "owner": "armorwallet",
                 "repo": "armor-crypto-mcp",
                 "stars": 178
-              }
+              },
+              "first_seen": "2026-08-29T02:16:37.239Z"
             }
           ],
           "description": null,
@@ -412,7 +436,8 @@
                 "owner": "Bankless",
                 "repo": "onchain-mcp",
                 "stars": 80
-              }
+              },
+              "first_seen": "2026-08-29T02:16:37.239Z"
             },
             {
               "node_type": "item",
@@ -427,7 +452,8 @@
                 "owner": "hive-intel",
                 "repo": "hive-sdk",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-29T02:16:37.239Z"
             },
             {
               "node_type": "item",
@@ -441,8 +467,9 @@
                 "last_commit": "2025-05-06T08:53:13Z",
                 "owner": "kukapay",
                 "repo": "crypto-liquidations-mcp",
-                "stars": 9
-              }
+                "stars": 8
+              },
+              "first_seen": "2026-08-29T02:16:37.239Z"
             }
           ],
           "description": null,
@@ -468,7 +495,8 @@
             "owner": "kukapay",
             "repo": "pancakeswap-poolspy-mcp",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-29T02:16:37.239Z"
         },
         {
           "node_type": "item",
@@ -483,7 +511,8 @@
             "owner": "magnetai",
             "repo": "mcp-free-usdc-transfer",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-29T02:16:37.239Z"
         }
       ],
       "title": "DeFi & Swaps"
@@ -503,8 +532,9 @@
             "last_commit": "2026-08-03T08:08:33Z",
             "owner": "akutishevsky",
             "repo": "lunchmoney-mcp",
-            "stars": 96
-          }
+            "stars": 97
+          },
+          "first_seen": "2026-08-29T02:16:37.239Z"
         },
         {
           "node_type": "item",
@@ -519,7 +549,8 @@
             "owner": "carsol",
             "repo": "monarch-mcp-server",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T02:16:37.239Z"
         }
       ],
       "title": "Personal Finance"
@@ -536,11 +567,12 @@
             "archived": false,
             "id": 886826524,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T03:16:21Z",
+            "last_commit": "2026-08-29T00:43:54Z",
             "owner": "stripe",
             "repo": "ai",
-            "stars": 1771
-          }
+            "stars": 1774
+          },
+          "first_seen": "2026-08-29T02:16:37.239Z"
         },
         {
           "node_type": "item",
@@ -555,7 +587,8 @@
             "owner": "qonto",
             "repo": "qonto-mcp-server",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-29T02:16:37.239Z"
         },
         {
           "node_type": "item",
@@ -570,7 +603,8 @@
             "owner": "ramp-public",
             "repo": "ramp_mcp",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-29T02:16:37.239Z"
         },
         {
           "node_type": "item",
@@ -585,7 +619,8 @@
             "owner": "Fewsats",
             "repo": "fewsats-mcp",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-29T02:16:37.239Z"
         },
         {
           "node_type": "item",
@@ -600,7 +635,8 @@
             "owner": "coinbase",
             "repo": "x402",
             "stars": 149
-          }
+          },
+          "first_seen": "2026-08-29T02:16:37.239Z"
         }
       ],
       "title": "Payments & Banking"
@@ -621,7 +657,8 @@
             "owner": "base",
             "repo": "base-mcp-legacy",
             "stars": 350
-          }
+          },
+          "first_seen": "2026-08-29T02:16:37.239Z"
         },
         {
           "node_type": "item",
@@ -636,7 +673,8 @@
             "owner": "sendaifun",
             "repo": "solana-agent-kit",
             "stars": 1711
-          }
+          },
+          "first_seen": "2026-08-29T02:16:37.239Z"
         },
         {
           "node_type": "item",
@@ -650,8 +688,9 @@
             "last_commit": "2025-08-01T09:38:50Z",
             "owner": "AbdelStark",
             "repo": "bitcoin-mcp",
-            "stars": 77
-          }
+            "stars": 76
+          },
+          "first_seen": "2026-08-29T02:16:37.239Z"
         }
       ],
       "title": "Blockchain & Web3"
@@ -671,8 +710,9 @@
             "last_commit": "2026-07-30T17:33:42Z",
             "owner": "OpenBB-finance",
             "repo": "OpenBB",
-            "stars": 72387
-          }
+            "stars": 72414
+          },
+          "first_seen": "2026-08-29T02:16:37.239Z"
         },
         {
           "node_type": "item",
@@ -686,8 +726,9 @@
             "last_commit": "2026-07-17T13:54:28Z",
             "owner": "sansan0",
             "repo": "TrendRadar",
-            "stars": 61879
-          }
+            "stars": 61896
+          },
+          "first_seen": "2026-08-29T02:16:37.239Z"
         },
         {
           "node_type": "item",
@@ -702,7 +743,8 @@
             "owner": "ahmetsbilgin",
             "repo": "finbrain-mcp",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T02:16:37.239Z"
         },
         {
           "node_type": "item",
@@ -713,11 +755,12 @@
             "archived": false,
             "id": 967639407,
             "language": "Python",
-            "last_commit": "2026-08-26T12:30:42Z",
+            "last_commit": "2026-08-29T01:20:38Z",
             "owner": "norman-finance",
             "repo": "norman-mcp-server",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-29T02:16:37.239Z"
         }
       ],
       "title": "Financial Intelligence"
@@ -740,7 +783,8 @@
                 "owner": "lightningfaucet",
                 "repo": "lightning-wallet-mcp",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-29T02:16:37.239Z"
             },
             {
               "node_type": "item",
@@ -755,7 +799,8 @@
                 "owner": "lnbits",
                 "repo": "LNbits-MCP-Server",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-29T02:16:37.239Z"
             },
             {
               "node_type": "item",
@@ -770,7 +815,8 @@
                 "owner": "hashgraph-online",
                 "repo": "hashnet-mcp-js",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-29T02:16:37.239Z"
             },
             {
               "node_type": "item",
@@ -785,7 +831,8 @@
                 "owner": "kukapay",
                 "repo": "dexscreener-trending-mcp",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T02:16:37.239Z"
             },
             {
               "node_type": "item",
@@ -796,11 +843,12 @@
                 "archived": false,
                 "id": 936468631,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T17:57:53Z",
+                "last_commit": "2026-08-28T13:35:16Z",
                 "owner": "ferdousbhai",
                 "repo": "investor-agent",
                 "stars": 345
-              }
+              },
+              "first_seen": "2026-08-29T02:16:37.239Z"
             },
             {
               "node_type": "item",
@@ -815,7 +863,8 @@
                 "owner": "QuantGeekDev",
                 "repo": "coincap-mcp",
                 "stars": 93
-              }
+              },
+              "first_seen": "2026-08-29T02:16:37.239Z"
             }
           ],
           "description": null,
@@ -836,8 +885,9 @@
                 "last_commit": "2026-07-30T17:33:42Z",
                 "owner": "OpenBB-finance",
                 "repo": "OpenBB",
-                "stars": 72387
-              }
+                "stars": 72414
+              },
+              "first_seen": "2026-08-29T02:16:37.239Z"
             }
           ],
           "description": null,
@@ -863,7 +913,8 @@
             "owner": "quant-sentiment-ai",
             "repo": "claude-equity-research",
             "stars": 706
-          }
+          },
+          "first_seen": "2026-08-29T02:16:37.239Z"
         },
         {
           "node_type": "item",
@@ -878,7 +929,8 @@
             "owner": "koreal6803",
             "repo": "finlab-ai",
             "stars": 413
-          }
+          },
+          "first_seen": "2026-08-29T02:16:37.239Z"
         },
         {
           "node_type": "item",
@@ -893,7 +945,8 @@
             "owner": "degentic-tools",
             "repo": "claude-code-trading-terminal",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-29T02:16:37.239Z"
         },
         {
           "node_type": "item",
@@ -908,7 +961,8 @@
             "owner": "martinxu9",
             "repo": "claude-investor",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-29T02:16:37.239Z"
         },
         {
           "node_type": "item",
@@ -919,11 +973,12 @@
             "archived": false,
             "id": 1079356098,
             "language": "Python",
-            "last_commit": "2026-08-27T12:27:23Z",
+            "last_commit": "2026-08-28T23:34:36Z",
             "owner": "tradermonty",
             "repo": "claude-trading-skills",
-            "stars": 2727
-          }
+            "stars": 2733
+          },
+          "first_seen": "2026-08-29T02:16:37.239Z"
         },
         {
           "node_type": "item",
@@ -937,15 +992,16 @@
             "last_commit": "2026-08-10T21:45:44Z",
             "owner": "ComposioHQ",
             "repo": "awesome-claude-skills",
-            "stars": 73651
-          }
+            "stars": 73819
+          },
+          "first_seen": "2026-08-29T02:16:37.239Z"
         }
       ],
       "title": "Skills"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T03:36:23.846Z",
+    "last_updated": "2026-08-29T02:16:37.239Z",
     "original_repository_info": {
       "archived": false,
       "id": 1136197489,
