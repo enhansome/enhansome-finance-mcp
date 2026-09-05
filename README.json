@@ -17,11 +17,11 @@
                 "id": 1043767874,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-01T20:53:29Z",
-                "open_issues": 16,
+                "last_commit": "2026-09-05T21:06:05Z",
+                "open_issues": 1,
                 "owner": "wshobson",
                 "repo": "maverick-mcp",
-                "stars": 656,
+                "stars": 657,
                 "topics": [
                   "ai-agents",
                   "algorithmic-trading",
@@ -101,7 +101,7 @@
                 "open_issues": 26,
                 "owner": "alpacahq",
                 "repo": "alpaca-mcp-server",
-                "stars": 946,
+                "stars": 948,
                 "topics": [
                   "ai-trading",
                   "algorithmic-trading",
@@ -154,7 +154,7 @@
                 "open_issues": 2,
                 "owner": "alphavantage",
                 "repo": "alpha_vantage_mcp",
-                "stars": 207,
+                "stars": 206,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:16:37.239Z"
@@ -271,6 +271,48 @@
             },
             {
               "node_type": "item",
+              "title": "VARRD",
+              "description": "AI trading research — event studies, backtesting, Bonferroni correction, OOS validation on 15,000+ instruments Freemium",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "AI-powered trading research platform. Test any idea on stocks, futures, and crypto with event studies, backtesting, and statistical validation. MCP server with 8 tools. pip install varrd.",
+                "homepage": "https://www.varrd.com",
+                "id": 1169968122,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-08-31T13:32:02Z",
+                "open_issues": 0,
+                "owner": "varrdinc",
+                "repo": "varrd",
+                "stars": 24,
+                "topics": [
+                  "ai-tools",
+                  "algorithmic-trading",
+                  "backtesting",
+                  "claude",
+                  "cryptocurrency",
+                  "edge-discovery",
+                  "event-study",
+                  "fintech",
+                  "futures",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "openbb",
+                  "python",
+                  "quant",
+                  "quantitative-finance",
+                  "statistical-testing",
+                  "stock-market",
+                  "trading",
+                  "trading-tools"
+                ]
+              },
+              "first_seen": "2026-09-05T21:19:34.697Z"
+            },
+            {
+              "node_type": "item",
               "title": "FRED MCP",
               "description": "Federal Reserve Economic Data Free",
               "children": [],
@@ -300,6 +342,36 @@
                 ]
               },
               "first_seen": "2026-08-29T02:16:37.239Z"
+            },
+            {
+              "node_type": "item",
+              "title": "FXMacroData MCP",
+              "description": "Macro indicators, FX, calendars, COT, and commodities Freemium",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "MCP server for the FXMacroData API — macroeconomic indicators, release calendars, COT, commodities, and forex for AI agents. Works with Claude Desktop, Cursor, VS Code, OpenClaw, and any MCP client.",
+                "homepage": "https://fxmacrodata.com/documentation/mcp-server",
+                "id": 1212091028,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-08-31T05:02:05Z",
+                "open_issues": 0,
+                "owner": "fxmacrodata",
+                "repo": "mcp-server-fxmacrodata",
+                "stars": 0,
+                "topics": [
+                  "ai-agents",
+                  "claude",
+                  "finance",
+                  "forex",
+                  "llm-tools",
+                  "macroeconomics",
+                  "mcp",
+                  "model-context-protocol"
+                ]
+              },
+              "first_seen": "2026-09-05T21:19:34.697Z"
             },
             {
               "node_type": "item",
@@ -377,6 +449,27 @@
                 ]
               },
               "first_seen": "2026-08-29T02:16:37.239Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Edgrapi",
+              "description": "SEC EDGAR insider trades, 8-Ks, 13F/13D-G, XBRL, full-text search Freemium",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1278394270,
+                "language": "Python",
+                "license": "MIT-0",
+                "last_commit": "2026-09-02T18:35:49Z",
+                "open_issues": 0,
+                "owner": "paperandbeyond23-gif",
+                "repo": "edgrapi-skills",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-09-05T21:19:34.697Z"
             }
           ],
           "description": null,
@@ -401,7 +494,7 @@
                 "open_issues": 26,
                 "owner": "alpacahq",
                 "repo": "alpaca-mcp-server",
-                "stars": 946,
+                "stars": 948,
                 "topics": [
                   "ai-trading",
                   "algorithmic-trading",
@@ -433,7 +526,7 @@
                 "open_issues": 28,
                 "owner": "ariadng",
                 "repo": "metatrader-mcp-server",
-                "stars": 790,
+                "stars": 793,
                 "topics": [
                   "ai",
                   "finance",
@@ -513,7 +606,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-09-04T07:51:57Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "coinpaprika",
                 "repo": "dexpaprika-mcp",
                 "stars": 42,
@@ -598,7 +691,7 @@
                 "open_issues": 13,
                 "owner": "atilaahmettaner",
                 "repo": "tradingview-mcp",
-                "stars": 4354,
+                "stars": 4360,
                 "topics": [
                   "claude-desktop",
                   "cryptocurrency",
@@ -616,6 +709,86 @@
                 ]
               },
               "first_seen": "2026-08-29T02:16:37.239Z"
+            },
+            {
+              "node_type": "item",
+              "title": "AgentServices",
+              "description": "54-service x402-paid crypto/market data API with 37 MCP tools x402 ($0.01/call)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "AgentServices — Premium APIs for AI Agents. Crypto data, marketing intelligence, dispute resolution. x402 micropayments on Base.",
+                "homepage": "https://agentservices.to",
+                "id": 1284628499,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-04T17:02:02Z",
+                "open_issues": 2,
+                "owner": "vbkotecha",
+                "repo": "agentservices-api",
+                "stars": 1,
+                "topics": [
+                  "agent",
+                  "agent-economy",
+                  "agent-payments",
+                  "ai-agents",
+                  "api",
+                  "base",
+                  "claude-skills",
+                  "crypto-api",
+                  "defi",
+                  "financial-data",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "paid-api",
+                  "usdc",
+                  "x402"
+                ]
+              },
+              "first_seen": "2026-09-05T21:19:34.697Z"
+            },
+            {
+              "node_type": "item",
+              "title": "CoinRebate MCP",
+              "description": "Live fees & rebate comparison across 6 exchanges, country-aware compliance filtering Free",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Neutral cross-exchange trading-fee & rebate oracle for AI agents — MCP server with 7 read-only tools, data from coinrebate.vip",
+                "homepage": null,
+                "id": 1343082809,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2026-08-22T20:05:35Z",
+                "open_issues": 0,
+                "owner": "skheman2026-sketch",
+                "repo": "coinrebate-mcp-server",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-09-05T21:19:34.697Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Munchausen Lab",
+              "description": "Crypto prices, quotes, token rug-pull safety scores, research Free (x402)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Remote MCP server: real-time crypto analytics via x402 pay-per-call (USDC on Base). Free prices, AI analysis, research reports.",
+                "homepage": null,
+                "id": 1342262593,
+                "language": "JavaScript",
+                "license": null,
+                "last_commit": "2026-08-24T22:22:44Z",
+                "open_issues": 0,
+                "owner": "MunchausenGrup",
+                "repo": "mcp-crypto-analytics",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-09-05T21:19:34.697Z"
             }
           ],
           "description": null,
@@ -658,10 +831,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-03T17:58:06Z",
-                "open_issues": 360,
+                "open_issues": 362,
                 "owner": "coinbase",
                 "repo": "agentkit",
-                "stars": 1296,
+                "stars": 1297,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:16:37.239Z"
@@ -704,6 +877,40 @@
             },
             {
               "node_type": "item",
+              "title": "Eterna MCP",
+              "description": "No-KYC USDT perpetual futures with isolated sub-accounts Free (trading fees apply)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "No-KYC managed MCP trading exchange for AI agents: sandboxed TypeScript SDK, isolated sub-accounts, perpetual futures.",
+                "homepage": "https://ai.eterna.exchange",
+                "id": 1176862173,
+                "language": null,
+                "license": "MIT",
+                "last_commit": "2026-07-29T16:46:11Z",
+                "open_issues": 4,
+                "owner": "EternaHybridExchange",
+                "repo": "eterna-mcp",
+                "stars": 8,
+                "topics": [
+                  "ai-agents",
+                  "algorithmic-trading",
+                  "bybit",
+                  "crypto-trading",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "no-kyc",
+                  "perpetual-futures",
+                  "quant-trading",
+                  "streamable-http",
+                  "trading"
+                ]
+              },
+              "first_seen": "2026-09-05T21:19:34.697Z"
+            },
+            {
+              "node_type": "item",
               "title": "Armor Crypto MCP",
               "description": "Swaps, DeFi, wallet management Requires wallet",
               "children": [],
@@ -729,6 +936,44 @@
                 ]
               },
               "first_seen": "2026-08-29T02:16:37.239Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Clicks Protocol MCP",
+              "description": "Autonomous USDC yield for AI agents (80/20 split, Morpho/Aave) No wallet needed (read-only)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Agent commerce settlement router for AI agents on Base. Split USDC into liquid working capital and routed yield.",
+                "homepage": "https://clicksprotocol.xyz",
+                "id": 1192059401,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-07-21T22:08:29Z",
+                "open_issues": 6,
+                "owner": "clicks-protocol",
+                "repo": "clicks-protocol",
+                "stars": 2,
+                "topics": [
+                  "agent-commerce",
+                  "ai-agents",
+                  "autonomous-agents",
+                  "base",
+                  "defi",
+                  "ethereum",
+                  "mcp",
+                  "sdk",
+                  "settlement-router",
+                  "solidity",
+                  "treasury",
+                  "typescript",
+                  "usdc",
+                  "working-capital",
+                  "x402",
+                  "yield"
+                ]
+              },
+              "first_seen": "2026-09-05T21:19:34.697Z"
             }
           ],
           "description": null,
@@ -760,8 +1005,8 @@
             },
             {
               "node_type": "item",
-              "title": "Hive Crypto MCP",
-              "description": "Crypto, DeFi, Web3 analytics Freemium",
+              "title": "Hive Intelligence",
+              "description": "Managed crypto intelligence MCP for AI agents Freemium",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -820,6 +1065,36 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T02:16:37.239Z"
+            },
+            {
+              "node_type": "item",
+              "title": "PnL Labs",
+              "description": "Solana wallet trust scores, funding forensics, token safety Pay-per-call (x402)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Trust & risk verdicts for AI trading agents on Solana — MCP server + x402 API. Proof of real PnL, not peak scores.",
+                "homepage": "https://pnllabs.com",
+                "id": 1317276003,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-07-31T10:46:31Z",
+                "open_issues": 0,
+                "owner": "PnLlabs",
+                "repo": "pnllabs-mcp",
+                "stars": 0,
+                "topics": [
+                  "ai-agents",
+                  "crypto",
+                  "defi",
+                  "mcp",
+                  "solana",
+                  "trading",
+                  "trust",
+                  "x402"
+                ]
+              },
+              "first_seen": "2026-09-05T21:19:34.697Z"
             }
           ],
           "description": null,
@@ -878,6 +1153,70 @@
             ]
           },
           "first_seen": "2026-08-29T02:16:37.239Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Arcadia Finance MCP",
+          "description": "Uniswap & Aerodrome liquidity positions with leverage, rebalancing, yield optimization Free",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "MCP server for Arcadia Finance. Manage concentrated liquidity positions with built-in leverage, automated rebalancing, and yield optimization on Base, Optimism, and Unichain.",
+            "homepage": "https://www.npmjs.com/package/@arcadia-finance/mcp-server",
+            "id": 1171797875,
+            "language": "TypeScript",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-09-01T14:57:35Z",
+            "open_issues": 1,
+            "owner": "arcadia-finance",
+            "repo": "mcp-server",
+            "stars": 5,
+            "topics": [
+              "arcadia",
+              "base",
+              "defi",
+              "lending",
+              "liquidity",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol",
+              "optimism",
+              "unichain"
+            ]
+          },
+          "first_seen": "2026-09-05T21:19:34.697Z"
+        },
+        {
+          "node_type": "item",
+          "title": "AutoSwap",
+          "description": "Cross-chain swaps in one call with auto-routing and bridging Free (MIT)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Cross-chain swaps in one line — built for AI agents. Auto-routing, bridge, gas, slippage protection.",
+            "homepage": "https://github.com/fino-oss/autoswap",
+            "id": 1200339146,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-04-03T09:56:56Z",
+            "open_issues": 1,
+            "owner": "fino-oss",
+            "repo": "autoswap",
+            "stars": 0,
+            "topics": [
+              "ai-agent",
+              "arbitrum",
+              "base",
+              "cross-chain",
+              "defi",
+              "ethereum",
+              "mcp",
+              "polygon",
+              "swap",
+              "web3"
+            ]
+          },
+          "first_seen": "2026-09-05T21:19:34.697Z"
         }
       ],
       "title": "DeFi & Swaps"
@@ -885,6 +1224,53 @@
     {
       "description": null,
       "items": [
+        {
+          "node_type": "item",
+          "title": "BankBridge",
+          "description": "Read-only bank balances, transactions, cashflow via Plaid $5/mo per bank",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Claude plugin for BankBridge — read-only access to bank accounts, transactions, and investments via MCP.",
+            "homepage": null,
+            "id": 1214872857,
+            "language": null,
+            "license": null,
+            "last_commit": "2026-07-10T19:44:59Z",
+            "open_issues": 1,
+            "owner": "bankbridge-money",
+            "repo": "bankbridge-plugin",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-09-05T21:19:34.697Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Candor Finance",
+          "description": "Accounts, spending, budgets, goals, evidence Requires account",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Official Candor finance skills and agent package",
+            "homepage": "https://candor.money",
+            "id": 1322115691,
+            "language": "JavaScript",
+            "license": "NOASSERTION",
+            "last_commit": "2026-09-05T00:54:57Z",
+            "open_issues": 0,
+            "owner": "candorsystems",
+            "repo": "candor-finance",
+            "stars": 2,
+            "topics": [
+              "agent-skills",
+              "gemini-cli-extension",
+              "mcp",
+              "personal-finance"
+            ]
+          },
+          "first_seen": "2026-09-05T21:19:34.697Z"
+        },
         {
           "node_type": "item",
           "title": "LunchMoney MCP",
@@ -956,7 +1342,7 @@
             "open_issues": 87,
             "owner": "stripe",
             "repo": "ai",
-            "stars": 1790,
+            "stars": 1792,
             "topics": [
               "ai",
               "gemini-cli-extension",
@@ -1060,6 +1446,149 @@
             "topics": []
           },
           "first_seen": "2026-08-29T02:16:37.239Z"
+        },
+        {
+          "node_type": "item",
+          "title": "pact-mcp-server",
+          "description": "Trustless on-chain escrow and payment channels for AI agents on Arbitrum (ERC-8183) Free",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Vibekit MCP plugin for PACT Protocol — trustless agent-to-agent escrow and payment channels on Arbitrum One",
+            "homepage": "https://dopeasset.com",
+            "id": 1202784487,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-04-09T06:54:28Z",
+            "open_issues": 0,
+            "owner": "praxisagent",
+            "repo": "pact-vibekit-plugin",
+            "stars": 0,
+            "topics": [
+              "ai-agents",
+              "arbitrum",
+              "bnb-chain",
+              "defi",
+              "escrow",
+              "mcp",
+              "mcp-server",
+              "pact-protocol",
+              "smart-contracts",
+              "web3"
+            ]
+          },
+          "first_seen": "2026-09-05T21:19:34.697Z"
+        },
+        {
+          "node_type": "item",
+          "title": "CardZero MCP",
+          "description": "Smart-contract wallet for AI agents on Base (USDC) Free (2% per tx)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "MCP Server for CardZero — smart-contract wallet for AI agents on Base (USDC). 10 tools: payments, x402, ERC-8183 escrow Jobs.",
+            "homepage": "https://cardzero.ai",
+            "id": 1232039322,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-05-07T14:27:36Z",
+            "open_issues": 0,
+            "owner": "mrocker",
+            "repo": "cardzero-mcp",
+            "stars": 0,
+            "topics": [
+              "a2a",
+              "ai-agents",
+              "anthropic",
+              "base",
+              "base-chain",
+              "cardzero",
+              "claude-code",
+              "cursor",
+              "erc-4337",
+              "erc-8004",
+              "erc-8183",
+              "erc8183",
+              "escrow",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol",
+              "smart-wallet",
+              "stablecoin",
+              "usdc",
+              "x402"
+            ]
+          },
+          "first_seen": "2026-09-05T21:19:34.697Z"
+        },
+        {
+          "node_type": "item",
+          "title": "open-banking.io",
+          "description": "Cert-free PSD2/open banking API with MCP Paid API key",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Zero-knowledge open banking — server-to-server SDKs (.NET, Node, Python, Rust, Go, Java, Ruby, PHP) and the openbanking CLI for open-banking.io",
+            "homepage": "https://open-banking.io",
+            "id": 1264078752,
+            "language": "Go",
+            "license": "MIT",
+            "last_commit": "2026-09-04T11:29:02Z",
+            "open_issues": 12,
+            "owner": "open-banking-io",
+            "repo": "clients",
+            "stars": 14,
+            "topics": [
+              "aisp",
+              "banking",
+              "cli",
+              "europe",
+              "fintech",
+              "open-banking",
+              "openbanking",
+              "psd2",
+              "sdk",
+              "zero-knowledge"
+            ]
+          },
+          "first_seen": "2026-09-05T21:19:34.697Z"
+        },
+        {
+          "node_type": "item",
+          "title": "stipend",
+          "description": "Non-custodial USDC wallet with code-enforced limits Free (self-hosted)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A non-custodial USDC wallet for AI agents. Spending limits enforced below the instruction layer.",
+            "homepage": null,
+            "id": 1327587380,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-02T05:44:22Z",
+            "open_issues": 0,
+            "owner": "stipend-sh",
+            "repo": "stipend",
+            "stars": 0,
+            "topics": [
+              "agent-payments",
+              "ai-agents",
+              "autonomous-agents",
+              "base",
+              "crypto-wallet",
+              "eip-3009",
+              "mcp",
+              "model-context-protocol",
+              "non-custodial",
+              "python",
+              "spending-limits",
+              "stablecoin",
+              "usdc",
+              "wallet",
+              "x402"
+            ]
+          },
+          "first_seen": "2026-09-05T21:19:34.697Z"
         }
       ],
       "title": "Payments & Banking"
@@ -1104,7 +1633,7 @@
             "open_issues": 66,
             "owner": "sendaifun",
             "repo": "solana-agent-kit",
-            "stars": 1711,
+            "stars": 1710,
             "topics": [
               "ai",
               "langchain",
@@ -1143,6 +1672,36 @@
             ]
           },
           "first_seen": "2026-08-29T02:16:37.239Z"
+        },
+        {
+          "node_type": "item",
+          "title": "ZKProofport MCP",
+          "description": "Zero-knowledge identity proofs (Coinbase KYC, Country, OIDC) for AI agents on Base x402 USDC pay-per-proof",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Agent-native ZK proof infrastructure with AWS Nitro Enclave TEE + ERC-8004 identity. Powers OpenStoa (1st Place at The Synthesis Hackathon — Agents That Keep Secrets).",
+            "homepage": null,
+            "id": 1153682510,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-09-05T08:46:47Z",
+            "open_issues": 3,
+            "owner": "zkproofport",
+            "repo": "proofport-ai",
+            "stars": 0,
+            "topics": [
+              "ai-agents",
+              "erc-8004",
+              "mcp-server",
+              "nitro-enclaves",
+              "privacy",
+              "tee",
+              "x402",
+              "zero-knowledge-proofs"
+            ]
+          },
+          "first_seen": "2026-09-05T21:19:34.697Z"
         }
       ],
       "title": "Blockchain & Web3"
@@ -1150,6 +1709,48 @@
     {
       "description": null,
       "items": [
+        {
+          "node_type": "item",
+          "title": "The Stall",
+          "description": "208 pay-per-call capabilities: finance, crypto, prediction markets Pay-per-use (x402)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "205 pay-per-call MCP tools via x402 — no API keys. Stocks, crypto/DeFi, macro data, on-chain analytics, weather, government data, and 200+ more. USDC on Base.",
+            "homepage": "https://the-stall.intuitek.ai",
+            "id": 1259954382,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-08-28T15:22:17Z",
+            "open_issues": 3,
+            "owner": "thebrierfox",
+            "repo": "the-stall",
+            "stars": 7,
+            "topics": [
+              "ai-agent",
+              "autonomous-agents",
+              "base-chain",
+              "cryptocurrency",
+              "defi",
+              "finance",
+              "financial-data",
+              "government-data",
+              "market-data",
+              "mcp",
+              "mcp-server",
+              "micropayments",
+              "model-context-protocol",
+              "no-api-key",
+              "pay-per-call",
+              "stock-market",
+              "weather-api",
+              "web3",
+              "x402",
+              "x402-protocol"
+            ]
+          },
+          "first_seen": "2026-09-05T21:19:34.697Z"
+        },
         {
           "node_type": "item",
           "title": "OpenBB Platform",
@@ -1163,10 +1764,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-07-30T17:33:42Z",
-            "open_issues": 115,
+            "open_issues": 116,
             "owner": "OpenBB-finance",
             "repo": "OpenBB",
-            "stars": 72670,
+            "stars": 72697,
             "topics": [
               "ai",
               "crypto",
@@ -1198,10 +1799,10 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-09-03T12:34:00Z",
-            "open_issues": 57,
+            "open_issues": 58,
             "owner": "sansan0",
             "repo": "TrendRadar",
-            "stars": 62035,
+            "stars": 62048,
             "topics": [
               "ai",
               "bark",
@@ -1222,6 +1823,45 @@
             ]
           },
           "first_seen": "2026-08-29T02:16:37.239Z"
+        },
+        {
+          "node_type": "item",
+          "title": "YIELD INTELLIGENCE",
+          "description": "Treasury rates, dividend ETFs, REITs, income portfolio optimizer Free",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "IntuiTek¹ ACE — AI APIs via MCP & A2A: yield intelligence, autonomous commerce, AI strategy. x402 micropayments. 50 free trial calls.",
+            "homepage": "https://intuitek.ai",
+            "id": 1192196262,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-06-08T18:34:40Z",
+            "open_issues": 0,
+            "owner": "thebrierfox",
+            "repo": "intuitek-ace",
+            "stars": 0,
+            "topics": [
+              "a2a",
+              "ai-commerce",
+              "anthropic",
+              "autonomous-agents",
+              "byok",
+              "claude-code",
+              "claude-desktop",
+              "fastapi",
+              "llm-tools",
+              "mcp",
+              "mcp-server",
+              "micropayments",
+              "passive-income",
+              "python",
+              "stripe",
+              "x402",
+              "yield-intelligence"
+            ]
+          },
+          "first_seen": "2026-09-05T21:19:34.697Z"
         },
         {
           "node_type": "item",
@@ -1256,8 +1896,8 @@
             "id": 967639407,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-04T12:14:07Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-05T11:23:58Z",
+            "open_issues": 4,
             "owner": "norman-finance",
             "repo": "norman-mcp-server",
             "stars": 54,
@@ -1285,6 +1925,169 @@
             ]
           },
           "first_seen": "2026-08-29T02:16:37.239Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Chart Library MCP",
+          "description": "Historical chart pattern search, 24M+ patterns Freemium",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "MCP server for Chart Library — visual chart pattern search engine. Find similar historical stock charts and see what happened next.",
+            "homepage": null,
+            "id": 1191189840,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-06-10T03:00:21Z",
+            "open_issues": 0,
+            "owner": "grahammccain",
+            "repo": "chart-library-mcp",
+            "stars": 20,
+            "topics": [
+              "ai-agents",
+              "claude",
+              "finance",
+              "llm-tools",
+              "market-data",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol",
+              "pattern-recognition",
+              "stock-market",
+              "stocks",
+              "technical-analysis",
+              "trading"
+            ]
+          },
+          "first_seen": "2026-09-05T21:19:34.697Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Valyu MCP",
+          "description": "Comprehensive financial deepresearch platform Free + Paid",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The Valyu MCP Server is a Model Context Protocol (MCP) tool that enables AI models to retrieve high-quality context from Valyu's API, including full search capabilities over Wikipedia, arXiv (great for finance, research, etc.), and web search.",
+            "homepage": "https://www.valyu.network",
+            "id": 933903435,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2025-04-04T10:30:18Z",
+            "open_issues": 1,
+            "owner": "valyuAI",
+            "repo": "valyu-mcp",
+            "stars": 18,
+            "topics": []
+          },
+          "first_seen": "2026-09-05T21:19:34.697Z"
+        },
+        {
+          "node_type": "item",
+          "title": "BDE Score",
+          "description": "Multi-factor stock scoring for US/HK/CN A-share markets Free",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "🏆 Open-source multi-factor stock scoring API (0-100) | US/HK/A-Share 74 stocks | Zero signup | shields.io badges | GitHub Action | EU AI Act compliant",
+            "homepage": "https://atlantic-remains-atomic-floor.trycloudflare.com/api/health",
+            "id": 1295975285,
+            "language": "Python",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-01T03:46:15Z",
+            "open_issues": 1,
+            "owner": "hbhqq9",
+            "repo": "bde-score",
+            "stars": 3,
+            "topics": [
+              "a-shares",
+              "ai-agents",
+              "blockchain",
+              "eu-ai-act",
+              "fastapi",
+              "finance",
+              "fintech",
+              "hk-stocks",
+              "market-data",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol",
+              "multi-factor",
+              "python",
+              "quantitative-finance",
+              "real-time",
+              "stock-analysis",
+              "stock-scoring",
+              "us-stocks",
+              "x402"
+            ]
+          },
+          "first_seen": "2026-09-05T21:19:34.697Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Worthune",
+          "description": "Financial planning models Freemium",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Worthune embeddable financial models, math, and calculators for Fintechs.",
+            "homepage": null,
+            "id": 1333974705,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-08-28T09:06:21Z",
+            "open_issues": 0,
+            "owner": "CapsteraSupport",
+            "repo": "worthune-sdk",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-09-05T21:19:34.697Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Cue Data MCP",
+          "description": "Cue Data MCP: macro, SEC EDGAR, IPO, sanctions, statutes Requires API key",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Cue Skills for Agents",
+            "homepage": null,
+            "id": 1244140731,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-09-04T14:57:15Z",
+            "open_issues": 0,
+            "owner": "sensedeal",
+            "repo": "cue-skills",
+            "stars": 7,
+            "topics": [
+              "dsh-plugin"
+            ]
+          },
+          "first_seen": "2026-09-05T21:19:34.697Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Pineify MCP",
+          "description": "Trading-code validation and market intelligence Paid API key",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Official integration repository for Pineify MCP, a hosted read-only MCP server for trading-code validation and financial market research.",
+            "homepage": null,
+            "id": 1322397223,
+            "language": null,
+            "license": null,
+            "last_commit": "2026-08-07T01:49:29Z",
+            "open_issues": 0,
+            "owner": "pineifyapp",
+            "repo": "pineify-mcp",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-09-05T21:19:34.697Z"
         }
       ],
       "title": "Financial Intelligence"
@@ -1450,6 +2253,112 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T02:16:37.239Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Bitget Agent MCP",
+              "description": "Official Bitget spot & futures trading, 89 operations Requires API key  @lukeGao0",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official Bitget MCP server for Claude Desktop, Cursor, Windsurf & ChatGPT. Trade crypto via natural language — 89 UTA v3 ops through 14 intent verbs, local stdio, HMAC signing, read-only & paper-trading modes.",
+                "homepage": null,
+                "id": 1253069060,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-09-01T10:12:14Z",
+                "open_issues": 1,
+                "owner": "Bitget-AI",
+                "repo": "agent-mcp",
+                "stars": 1,
+                "topics": [
+                  "ai-agent",
+                  "bitget",
+                  "chatgpt",
+                  "claude-desktop",
+                  "crypto-trading",
+                  "cursor",
+                  "gemini-cli-extension",
+                  "mcp",
+                  "model-context-protocol",
+                  "typescript",
+                  "uta-v3"
+                ]
+              },
+              "first_seen": "2026-09-05T21:19:34.697Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Aperture Wallet Knowledge",
+              "description": "Read-only Aperture wallet knowledge for AI agents Free  @devdasx",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Open-source self-custody crypto wallet for iPhone and iPad. Bitcoin, Ethereum, Solana, and 22 more mainnets. Swift 6.2, BIP-39, on-device keys.",
+                "homepage": "https://aperturex.io/",
+                "id": 1259417351,
+                "language": "Swift",
+                "license": "MIT",
+                "last_commit": "2026-09-02T02:33:30Z",
+                "open_issues": 1,
+                "owner": "devdasx",
+                "repo": "aperture",
+                "stars": 1,
+                "topics": [
+                  "agent-skills",
+                  "ai-agents",
+                  "bip39",
+                  "bitcoin",
+                  "bitcoin-wallet",
+                  "crypto-wallet",
+                  "ethereum",
+                  "ethereum-wallet",
+                  "gemini-cli-extension",
+                  "ios",
+                  "llms-txt",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "multi-chain-wallet",
+                  "non-custodial-wallet",
+                  "open-source",
+                  "self-custody",
+                  "solana",
+                  "solana-wallet",
+                  "swift"
+                ]
+              },
+              "first_seen": "2026-09-05T21:19:34.697Z"
+            },
+            {
+              "node_type": "item",
+              "title": "x402 Preflight",
+              "description": "Preflight checks for x402 endpoints before payment Freemium  @chico10117",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "x402 Preflight: inspect payment challenges before agents spend USDC on Base",
+                "homepage": "https://x402.chikocorp.com",
+                "id": 1247229736,
+                "language": "JavaScript",
+                "license": null,
+                "last_commit": "2026-09-04T20:18:01Z",
+                "open_issues": 1,
+                "owner": "chico10117",
+                "repo": "basepay-readiness-service",
+                "stars": 0,
+                "topics": [
+                  "agent-commerce",
+                  "ai-agents",
+                  "base",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "payment-security",
+                  "streamable-http",
+                  "usdc",
+                  "x402"
+                ]
+              },
+              "first_seen": "2026-09-05T21:19:34.697Z"
             }
           ],
           "description": null,
@@ -1471,10 +2380,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-07-30T17:33:42Z",
-                "open_issues": 115,
+                "open_issues": 116,
                 "owner": "OpenBB-finance",
                 "repo": "OpenBB",
-                "stars": 72670,
+                "stars": 72697,
                 "topics": [
                   "ai",
                   "crypto",
@@ -1492,11 +2401,182 @@
                 ]
               },
               "first_seen": "2026-08-29T02:16:37.239Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Equibles",
+              "description": "SEC filings, XBRL, 13F, insider & congress trades Freemium  @daniel3303",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Free MCP server for stock market & financial data — 108 tools for Claude, ChatGPT & Cursor: SEC filings, 13F holdings, insider & congressional trades, earnings call transcripts, options chains, live quotes, IPOs, short interest, FRED macro, portfolio tracking. Free tier, no card.",
+                "homepage": "https://equibles.com",
+                "id": 1305076240,
+                "language": null,
+                "license": "MIT",
+                "last_commit": "2026-08-20T14:02:49Z",
+                "open_issues": 2,
+                "owner": "daniel3303",
+                "repo": "stock-market-mcp-server",
+                "stars": 3,
+                "topics": [
+                  "ai-agents",
+                  "chatgpt",
+                  "claude",
+                  "earnings-calls",
+                  "finance",
+                  "financial-data",
+                  "fintech",
+                  "insider-trading",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "sec-filings",
+                  "stock-market",
+                  "stock-market-data"
+                ]
+              },
+              "first_seen": "2026-09-05T21:19:34.697Z"
+            },
+            {
+              "node_type": "item",
+              "title": "AlphaSMO",
+              "description": "SEC 13F holdings, Form 4 insider trades, smart-money signals Freemium  @alphasmo",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The ultimate financial data CLI + MCP server for SEC EDGAR 13F filings, insider trading, and Smart Money convergence signals.",
+                "homepage": "https://alphasmo.com",
+                "id": 1304522920,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-08-12T15:09:50Z",
+                "open_issues": 0,
+                "owner": "alphasmo",
+                "repo": "alphasmo-tools",
+                "stars": 2,
+                "topics": [
+                  "13f",
+                  "fintech",
+                  "mcp",
+                  "sec-filings",
+                  "stock-analysis"
+                ]
+              },
+              "first_seen": "2026-09-05T21:19:34.697Z"
+            },
+            {
+              "node_type": "item",
+              "title": "GitDealFlow",
+              "description": "Startup deal-flow signals from GitHub activity Free  @kindrat86",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "MCP server for VC Deal Flow Signal — startup engineering acceleration data for investors",
+                "homepage": "https://signals.gitdealflow.com",
+                "id": 1212151759,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2026-08-21T04:04:14Z",
+                "open_issues": 4,
+                "owner": "kindrat86",
+                "repo": "mcp-deal-flow-signal",
+                "stars": 5,
+                "topics": [
+                  "agent-tools",
+                  "ai-agents",
+                  "alternative-data",
+                  "deal-flow",
+                  "engineering-acceleration",
+                  "github-data",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "startup-data",
+                  "vc",
+                  "venture-capital"
+                ]
+              },
+              "first_seen": "2026-09-05T21:19:34.697Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Predge",
+              "description": "Signed, outcome-verified trader-skill (edge) scores for Polymarket & Kalshi wallets Pay-per-call (x402)  @predge-ai",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "MCP server for the Predge Whale Data x402 API — Polymarket whale trades & smart-money signals as agent tools, paid per call in USDC on Base. Bring a funded wallet key.",
+                "homepage": "https://data.predge.io",
+                "id": 1306629744,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-08-15T07:53:25Z",
+                "open_issues": 0,
+                "owner": "predgeAI",
+                "repo": "whale-data-mcp",
+                "stars": 1,
+                "topics": [
+                  "ai-agents",
+                  "base",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "polymarket",
+                  "prediction-markets",
+                  "usdc",
+                  "whale-tracking",
+                  "x402"
+                ]
+              },
+              "first_seen": "2026-09-05T21:19:34.697Z"
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "Financial Intelligence"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OptionsAhoy MCP",
+              "description": "Equity compensation tax optimizer: ISO, NSO, RSU, QSBS Free  @AlvisoOculus",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Free equity-compensation tax optimizer for AI agents — ISO/AMT, NSO, RSU sell-vs-hold, QSBS, concentration & hedging. Deterministic math, federal + 50 states + DC, multi-year plans. Remote MCP + REST, no signup.",
+                "homepage": "https://optionsahoy.com/for-agents",
+                "id": 1249880417,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-09-05T06:32:59Z",
+                "open_issues": 3,
+                "owner": "AlvisoOculus",
+                "repo": "optionsahoy-mcp",
+                "stars": 5,
+                "topics": [
+                  "ai-agents",
+                  "anthropic",
+                  "claude",
+                  "cloudflare-pages-functions",
+                  "equity-compensation",
+                  "finance",
+                  "gemini-cli-extension",
+                  "mcp",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "openapi",
+                  "optimization",
+                  "tax-optimization"
+                ]
+              },
+              "first_seen": "2026-09-05T21:19:34.697Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Personal Finance"
         }
       ],
       "title": "Community Contributions"
@@ -1504,6 +2584,38 @@
     {
       "description": "Skills are task-level workflows built on top of MCP servers or external APIs. They provide ready-to-use capabilities for common finance tasks.",
       "items": [
+        {
+          "node_type": "item",
+          "title": "AShareHub Chinese Market Data",
+          "description": "A-shares, ETFs, fundamentals, capital flows, technical indicators AShareHub API + Python SDK",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Official AShareHub Agent Skill for querying Chinese A-share and ETF market data",
+            "homepage": "https://asharehub.com/en/skill",
+            "id": 1188566426,
+            "language": null,
+            "license": null,
+            "last_commit": "2026-08-18T16:45:25Z",
+            "open_issues": 0,
+            "owner": "ChuYiCui1",
+            "repo": "AshareHub-skills",
+            "stars": 2,
+            "topics": [
+              "a-share",
+              "agent-skills",
+              "ai-agents",
+              "asharehub",
+              "china-stock-api",
+              "claude-code",
+              "finance",
+              "market-data",
+              "mcp",
+              "mcp-server"
+            ]
+          },
+          "first_seen": "2026-09-05T21:19:34.697Z"
+        },
         {
           "node_type": "item",
           "title": "Equity Research",
@@ -1516,11 +2628,11 @@
             "id": 1053779296,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-04T08:52:59Z",
+            "last_commit": "2026-09-05T08:23:34Z",
             "open_issues": 0,
             "owner": "quant-sentiment-ai",
             "repo": "claude-equity-research",
-            "stars": 709,
+            "stars": 710,
             "topics": [
               "ai-powered",
               "claude-code",
@@ -1614,11 +2726,11 @@
             "id": 1079356098,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-04T00:25:44Z",
-            "open_issues": 35,
+            "last_commit": "2026-09-05T20:27:53Z",
+            "open_issues": 32,
             "owner": "tradermonty",
             "repo": "claude-trading-skills",
-            "stars": 2776,
+            "stars": 2780,
             "topics": []
           },
           "first_seen": "2026-08-29T02:16:37.239Z"
@@ -1636,10 +2748,10 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-08-10T21:45:44Z",
-            "open_issues": 1401,
+            "open_issues": 1404,
             "owner": "ComposioHQ",
             "repo": "awesome-claude-skills",
-            "stars": 74474,
+            "stars": 74539,
             "topics": [
               "agent-skills",
               "ai-agents",
@@ -1661,13 +2773,78 @@
             ]
           },
           "first_seen": "2026-08-29T02:16:37.239Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Surf Crypto Intelligence",
+          "description": "Crypto social, news, prediction, wallet, and SQL data Surf + BlockRun",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Live data for AI agents — search, research, markets, crypto, X/Twitter. Pay-per-call via x402 micropayments.",
+            "homepage": "https://www.npmjs.com/package/@blockrun/mcp",
+            "id": 1132602643,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-09-05T18:48:11Z",
+            "open_issues": 5,
+            "owner": "BlockRunAI",
+            "repo": "blockrun-mcp",
+            "stars": 393,
+            "topics": [
+              "ai",
+              "claude-code",
+              "llm",
+              "mcp",
+              "mcp-server",
+              "x402"
+            ]
+          },
+          "first_seen": "2026-09-05T21:19:34.697Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Superior Skills",
+          "description": "Agent skills for strategy authoring, backtesting, and trading deployment Superior Trade API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Open agent skills and tool schemas for Superior Trade — build, backtest, and deploy trading strategies on Hyperliquid",
+            "homepage": null,
+            "id": 1175742612,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-09-03T13:48:47Z",
+            "open_issues": 2,
+            "owner": "Superior-Trade",
+            "repo": "superior-skills",
+            "stars": 208,
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "algorithmic-trading",
+              "backtesting",
+              "equities",
+              "hyperliquid",
+              "llm",
+              "mcp",
+              "polymarket",
+              "prediction-markets",
+              "quant",
+              "stocks",
+              "trading",
+              "trading-bot",
+              "trading-strategies"
+            ]
+          },
+          "first_seen": "2026-09-05T21:19:34.697Z"
         }
       ],
       "title": "Skills"
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T21:33:01.618Z",
+    "last_updated": "2026-09-05T21:19:34.697Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of MCP servers for AI finance agents",
@@ -1675,11 +2852,11 @@
       "id": 1136197489,
       "language": null,
       "license": null,
-      "last_commit": "2026-02-16T05:53:31Z",
-      "open_issues": 44,
+      "last_commit": "2026-09-05T17:49:15Z",
+      "open_issues": 4,
       "owner": "BlockRunAI",
       "repo": "awesome-finance-mcp",
-      "stars": 208,
+      "stars": 209,
       "topics": [
         "ai-agents",
         "awesome",
@@ -1696,7 +2873,7 @@
         "web3"
       ]
     },
-    "original_repository_sha": "15c31db180dd5169cb09eb0fd99a39d7235b5e6a",
+    "original_repository_sha": "a85f8851f88ba6a2674ee4785c7651bab40b9e33",
     "enhanced_repository": "enhansome/enhansome-finance-mcp",
     "enhanced_repository_description": null,
     "title": "Awesome Finance MCP & Skills with stars"
