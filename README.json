@@ -21,7 +21,7 @@
                 "open_issues": 6,
                 "owner": "wshobson",
                 "repo": "maverick-mcp",
-                "stars": 661,
+                "stars": 665,
                 "topics": [
                   "ai-agents",
                   "algorithmic-trading",
@@ -229,7 +229,7 @@
                 "open_issues": 10,
                 "owner": "massive-com",
                 "repo": "mcp_massive",
-                "stars": 390,
+                "stars": 389,
                 "topics": [
                   "cryptocurrency",
                   "fintech",
@@ -526,7 +526,7 @@
                 "open_issues": 28,
                 "owner": "ariadng",
                 "repo": "metatrader-mcp-server",
-                "stars": 797,
+                "stars": 798,
                 "topics": [
                   "ai",
                   "finance",
@@ -688,10 +688,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-01T15:15:48Z",
-                "open_issues": 13,
+                "open_issues": 14,
                 "owner": "atilaahmettaner",
                 "repo": "tradingview-mcp",
-                "stars": 4426,
+                "stars": 4498,
                 "topics": [
                   "claude-desktop",
                   "cryptocurrency",
@@ -831,10 +831,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-03T17:58:06Z",
-                "open_issues": 366,
+                "open_issues": 368,
                 "owner": "coinbase",
                 "repo": "agentkit",
-                "stars": 1307,
+                "stars": 1309,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:16:37.239Z"
@@ -1342,7 +1342,7 @@
             "open_issues": 87,
             "owner": "stripe",
             "repo": "ai",
-            "stars": 1799,
+            "stars": 1801,
             "topics": [
               "ai",
               "gemini-cli-extension",
@@ -1439,7 +1439,7 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-09-03T23:44:57Z",
-            "open_issues": 180,
+            "open_issues": 183,
             "owner": "coinbase",
             "repo": "x402",
             "stars": 152,
@@ -1767,7 +1767,7 @@
             "open_issues": 117,
             "owner": "OpenBB-finance",
             "repo": "OpenBB",
-            "stars": 72889,
+            "stars": 72914,
             "topics": [
               "ai",
               "crypto",
@@ -1802,7 +1802,7 @@
             "open_issues": 58,
             "owner": "sansan0",
             "repo": "TrendRadar",
-            "stars": 62187,
+            "stars": 62202,
             "topics": [
               "ai",
               "bark",
@@ -1977,7 +1977,7 @@
             "open_issues": 1,
             "owner": "valyuAI",
             "repo": "valyu-mcp",
-            "stars": 18,
+            "stars": 19,
             "topics": []
           },
           "first_seen": "2026-09-05T21:19:34.697Z"
@@ -2383,7 +2383,7 @@
                 "open_issues": 117,
                 "owner": "OpenBB-finance",
                 "repo": "OpenBB",
-                "stars": 72889,
+                "stars": 72914,
                 "topics": [
                   "ai",
                   "crypto",
@@ -2418,7 +2418,7 @@
                 "open_issues": 2,
                 "owner": "daniel3303",
                 "repo": "stock-market-mcp-server",
-                "stars": 3,
+                "stars": 4,
                 "topics": [
                   "ai-agents",
                   "chatgpt",
@@ -2667,7 +2667,7 @@
             "open_issues": 1,
             "owner": "koreal6803",
             "repo": "finlab-ai",
-            "stars": 414,
+            "stars": 413,
             "topics": []
           },
           "first_seen": "2026-08-29T02:16:37.239Z"
@@ -2726,11 +2726,11 @@
             "id": 1079356098,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-11T20:14:55Z",
-            "open_issues": 32,
+            "last_commit": "2026-09-12T18:51:16Z",
+            "open_issues": 29,
             "owner": "tradermonty",
             "repo": "claude-trading-skills",
-            "stars": 2813,
+            "stars": 2818,
             "topics": []
           },
           "first_seen": "2026-08-29T02:16:37.239Z"
@@ -2748,10 +2748,10 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-08-10T21:45:44Z",
-            "open_issues": 1435,
+            "open_issues": 1446,
             "owner": "ComposioHQ",
             "repo": "awesome-claude-skills",
-            "stars": 74877,
+            "stars": 74918,
             "topics": [
               "agent-skills",
               "ai-agents",
@@ -2818,7 +2818,7 @@
             "open_issues": 3,
             "owner": "Superior-Trade",
             "repo": "superior-skills",
-            "stars": 209,
+            "stars": 211,
             "topics": [
               "agent-skills",
               "ai-agents",
@@ -2844,7 +2844,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T21:45:54.867Z",
+    "last_updated": "2026-09-12T21:28:44.503Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of MCP servers for AI finance agents",
@@ -2853,10 +2853,10 @@
       "language": null,
       "license": null,
       "last_commit": "2026-09-05T17:49:15Z",
-      "open_issues": 10,
+      "open_issues": 11,
       "owner": "BlockRunAI",
       "repo": "awesome-finance-mcp",
-      "stars": 209,
+      "stars": 210,
       "topics": [
         "ai-agents",
         "awesome",
