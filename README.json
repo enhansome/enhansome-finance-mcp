@@ -17,11 +17,11 @@
                 "id": 1043767874,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-26T20:35:46Z",
-                "open_issues": 7,
+                "last_commit": "2026-10-30T22:58:27Z",
+                "open_issues": 0,
                 "owner": "wshobson",
                 "repo": "maverick-mcp",
-                "stars": 714,
+                "stars": 715,
                 "topics": [
                   "ai-agents",
                   "anthropic",
@@ -101,7 +101,7 @@
                 "open_issues": 28,
                 "owner": "alpacahq",
                 "repo": "alpaca-mcp-server",
-                "stars": 1049,
+                "stars": 1052,
                 "topics": [
                   "ai-trading",
                   "algorithmic-trading",
@@ -133,7 +133,7 @@
                 "open_issues": 17,
                 "owner": "financial-datasets",
                 "repo": "mcp-server",
-                "stars": 2315,
+                "stars": 2314,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:16:37.239Z"
@@ -154,7 +154,7 @@
                 "open_issues": 3,
                 "owner": "alphavantage",
                 "repo": "alpha_vantage_mcp",
-                "stars": 223,
+                "stars": 224,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:16:37.239Z"
@@ -327,7 +327,7 @@
                 "open_issues": 5,
                 "owner": "stefanoamorelli",
                 "repo": "fred-mcp-server",
-                "stars": 129,
+                "stars": 130,
                 "topics": [
                   "data",
                   "data-analysis-project",
@@ -408,8 +408,8 @@
                 "id": 968479062,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-26T11:54:49Z",
-                "open_issues": 14,
+                "last_commit": "2026-10-30T10:38:24Z",
+                "open_issues": 12,
                 "owner": "maxscheijen",
                 "repo": "mcp-yahoo-finance",
                 "stars": 28,
@@ -502,7 +502,7 @@
                 "open_issues": 28,
                 "owner": "alpacahq",
                 "repo": "alpaca-mcp-server",
-                "stars": 1049,
+                "stars": 1052,
                 "topics": [
                   "ai-trading",
                   "algorithmic-trading",
@@ -534,7 +534,7 @@
                 "open_issues": 31,
                 "owner": "ariadng",
                 "repo": "metatrader-mcp-server",
-                "stars": 843,
+                "stars": 844,
                 "topics": [
                   "ai",
                   "finance",
@@ -699,7 +699,7 @@
                 "open_issues": 9,
                 "owner": "atilaahmettaner",
                 "repo": "tradingview-mcp",
-                "stars": 5166,
+                "stars": 5173,
                 "topics": [
                   "claude-desktop",
                   "cryptocurrency",
@@ -839,10 +839,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-14T21:50:54Z",
-                "open_issues": 467,
+                "open_issues": 468,
                 "owner": "coinbase",
                 "repo": "agentkit",
-                "stars": 1346,
+                "stars": 1348,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:16:37.239Z"
@@ -1373,11 +1373,11 @@
             "id": 886826524,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-29T22:14:22Z",
+            "last_commit": "2026-10-30T19:18:06Z",
             "open_issues": 107,
             "owner": "stripe",
             "repo": "ai",
-            "stars": 2000,
+            "stars": 2008,
             "topics": [
               "ai",
               "gemini-cli-extension",
@@ -1477,7 +1477,7 @@
             "open_issues": 247,
             "owner": "coinbase",
             "repo": "x402",
-            "stars": 176,
+            "stars": 177,
             "topics": []
           },
           "first_seen": "2026-08-29T02:16:37.239Z"
@@ -1668,7 +1668,7 @@
             "open_issues": 80,
             "owner": "sendaifun",
             "repo": "solana-agent-kit",
-            "stars": 1729,
+            "stars": 1730,
             "topics": [
               "ai",
               "langchain",
@@ -1720,7 +1720,7 @@
             "id": 1153682510,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-29T08:56:43Z",
+            "last_commit": "2026-10-30T16:19:56Z",
             "open_issues": 7,
             "owner": "zkproofport",
             "repo": "proofport-ai",
@@ -1799,10 +1799,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-24T09:08:28Z",
-            "open_issues": 98,
+            "open_issues": 100,
             "owner": "openbq-org",
             "repo": "OpenBB",
-            "stars": 74874,
+            "stars": 74920,
             "topics": [
               "ai",
               "crypto",
@@ -1837,7 +1837,7 @@
             "open_issues": 34,
             "owner": "sansan0",
             "repo": "TrendRadar",
-            "stars": 63291,
+            "stars": 63318,
             "topics": [
               "ai",
               "bark",
@@ -1931,11 +1931,11 @@
             "id": 967639407,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-29T22:18:29Z",
-            "open_issues": 6,
+            "last_commit": "2026-10-30T22:53:57Z",
+            "open_issues": 8,
             "owner": "norman-finance",
             "repo": "norman-mcp-server",
-            "stars": 63,
+            "stars": 65,
             "topics": [
               "bookkeeping",
               "claude",
@@ -2144,7 +2144,7 @@
                 "id": 1134677367,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-27T15:02:43Z",
+                "last_commit": "2026-10-30T18:57:38Z",
                 "open_issues": 3,
                 "owner": "lightningfaucet",
                 "repo": "lightning-wallet-mcp",
@@ -2321,48 +2321,6 @@
                 ]
               },
               "first_seen": "2026-09-05T21:19:34.697Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Aperture Wallet Knowledge",
-              "description": "Read-only Aperture wallet knowledge for AI agents Free  @devdasx",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Oath Wallet is an open-source, self-custody crypto wallet for iPhone and iPad. Bitcoin, Ethereum, Solana and other supported mainnets. On-device keys. https://oathwallet.org",
-                "homepage": "https://oathwallet.org",
-                "id": 1259417351,
-                "language": "Swift",
-                "license": "MIT",
-                "last_commit": "2026-10-29T15:24:23Z",
-                "open_issues": 0,
-                "owner": "devdasx",
-                "repo": "oath-wallet",
-                "stars": 4,
-                "topics": [
-                  "agent-skills",
-                  "ai-agents",
-                  "bip39",
-                  "bitcoin",
-                  "bitcoin-wallet",
-                  "crypto-wallet",
-                  "ethereum",
-                  "ethereum-wallet",
-                  "gemini-cli-extension",
-                  "ios",
-                  "llms-txt",
-                  "mcp-server",
-                  "model-context-protocol",
-                  "multi-chain-wallet",
-                  "non-custodial-wallet",
-                  "open-source",
-                  "self-custody",
-                  "solana",
-                  "solana-wallet",
-                  "swift"
-                ]
-              },
-              "first_seen": "2026-09-05T21:19:34.697Z"
             }
           ],
           "description": null,
@@ -2384,10 +2342,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-24T09:08:28Z",
-                "open_issues": 98,
+                "open_issues": 100,
                 "owner": "openbq-org",
                 "repo": "OpenBB",
-                "stars": 74874,
+                "stars": 74920,
                 "topics": [
                   "ai",
                   "crypto",
@@ -2555,7 +2513,7 @@
                 "id": 1249880417,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-28T22:33:48Z",
+                "last_commit": "2026-10-30T10:41:40Z",
                 "open_issues": 1,
                 "owner": "AlvisoOculus",
                 "repo": "optionsahoy-mcp",
@@ -2633,11 +2591,11 @@
             "id": 1053779296,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-29T10:56:03Z",
+            "last_commit": "2026-10-30T10:54:08Z",
             "open_issues": 0,
             "owner": "quant-sentiment-ai",
             "repo": "claude-equity-research",
-            "stars": 750,
+            "stars": 751,
             "topics": [
               "ai-powered",
               "claude-code",
@@ -2735,7 +2693,7 @@
             "open_issues": 40,
             "owner": "tradermonty",
             "repo": "claude-trading-skills",
-            "stars": 3446,
+            "stars": 3477,
             "topics": []
           },
           "first_seen": "2026-08-29T02:16:37.239Z"
@@ -2753,10 +2711,10 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-09-18T07:16:11Z",
-            "open_issues": 1874,
+            "open_issues": 1878,
             "owner": "ComposioHQ",
             "repo": "awesome-claude-skills",
-            "stars": 78283,
+            "stars": 78352,
             "topics": [
               "agent-skills",
               "ai-agents",
@@ -2849,7 +2807,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T23:21:27.723Z",
+    "last_updated": "2026-10-30T23:00:56.350Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of MCP servers for AI finance agents",
@@ -2858,7 +2816,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-09-05T17:49:15Z",
-      "open_issues": 61,
+      "open_issues": 63,
       "owner": "BlockRunAI",
       "repo": "awesome-finance-mcp",
       "stars": 248,
